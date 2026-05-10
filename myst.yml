@@ -2,15 +2,15 @@
 version: 1
 project:
   id: 62889421-1fa2-49f1-87cf-a00627a430d2
-  title: Aircraft Structural Analysis and Design
+  title: Exercise Book for Aircraft Structural Analysis and Design
   # description:
   # keywords: []
   authors: [Calvin Rans]
   license:
     content: CC-BY-4.0
   
-  date: 2025-11-02
-  github: https://github.com/cdrans/Aircraft_Structural_Analysis
+  date: 2025-10-05
+  github: https://github.com/cdrans/ExerciseBook-SAD
 
   
 extends:
@@ -31,5 +31,5 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/cdrans/Aircraft_Structural_Analysis/issues # Change this URL to your GitHub repository
+      url: https://github.com/cdrans/ExerciseBook-SAD/issues # Change this URL to your GitHub repository
 
