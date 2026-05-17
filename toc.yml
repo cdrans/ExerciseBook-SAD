@@ -4,4 +4,7 @@ project:
   toc:
     - file: Content/00_cover.md                      # the landing page
     - file: Content/01_Preface.md
+    - file: Content/Bending/00_Main.md
+      children:
+        - file: Content/Bending/01_Homework.md
 
