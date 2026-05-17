@@ -11,7 +11,7 @@ You are not limited to the use of a scientific calculator for homwework problems
 ## P16.2 (modified)
 A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section supports two shear loads of 800 N and 400 N through the shear centre at its free end as shown below. Calculate the maximum normal stress due to bending that occurs at the fixed end of the beam and clearly indicate if it is tensile or compressive.
 
-```{figure} ../Content/Bending/Figures/P16-2.svg
+```{figure} ../Figures/P16-2.svg
 :alt: Unsymmetric cantilever beam with horizontal load of 400 N and vertical load of 800 N acting at its end
 :width: 600px
 :align: center
