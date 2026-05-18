@@ -8,6 +8,7 @@ kernelspec:
 Some introductory text goes here.
 
 ```{code-cell} python
+:tags: [remove-input]
 import matplotlib.pyplot as plt
 import numpy as np
 
