@@ -7,4 +7,3 @@ project:
     - plugins/lightbox.mjs
     - plugins/pyodide.mjs
     - plugins/widget.mjs
-    - plugins/h5p.mjs 
