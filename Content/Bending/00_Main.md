@@ -1,7 +1,7 @@
 ---
 kernelspec:
   name: python3
-  display_name: Python 3
+  display_name: 'Python 3'
 ---
 
 # Bending Exercises
