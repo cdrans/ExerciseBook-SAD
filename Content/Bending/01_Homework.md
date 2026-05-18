@@ -27,7 +27,7 @@ A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section sup
 :class: dropdown
 
 ::::{tab-set}
-:::{tab-item} Interpret
+:::{tab-item} Final Answer Check
 
 The maximum normal stress at the fixed end is: $\sigma_{max} = 390~MPa$ (in tension)
 
