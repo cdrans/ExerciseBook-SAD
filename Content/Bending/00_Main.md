@@ -8,26 +8,53 @@ kernelspec:
 Some introductory text goes here.
 
 ```{code-cell} python
-:tags: [remove-input]
-# Data for plotting
-t = np.arange(0.0, 2.0, 0.01)
-s = 1 + np.sin(2 * np.pi * t)
+import matplotlib.pyplot as plt
+import numpy as np
 
-fig, ax = plt.subplots()
-ax.plot(t, s)
+x_deg = np.linspace(0, 180, 500)
 
-ax.set(xlabel='time (s)', ylabel='voltage (mV)',
-       title='Waves in Time')
-ax.grid()
+x_rad = np.radians(x_deg)
 
-fig.savefig("test.png")
+y = np.arctan(
+    ((2/3) * np.sin(x_rad) * np.cos(x_rad)) /
+    ((1/6) + 2*(np.cos(x_rad)-(1/2))**2 + (2/3) * np.cos(x_rad)**2)
+)
+
+y_deg = np.degrees(y)
+
+plt.figure(figsize=(8, 4))
+plt.plot(x_deg, y_deg)
+plt.grid(True)
+
+plt.xlabel('theta (degrees)')
+plt.ylabel('beta (degrees)')
 plt.show()
 ```
 
 Divider text
 
 ```{pyodide}
-print("Hello from Pyodide")
+import matplotlib.pyplot as plt
+import numpy as np
+
+x_deg = np.linspace(0, 180, 500)
+
+x_rad = np.radians(x_deg)
+
+y = np.arctan(
+    ((2/3) * np.sin(x_rad) * np.cos(x_rad)) /
+    ((1/6) + 2*(np.cos(x_rad)-(1/2))**2 + (2/3) * np.cos(x_rad)**2)
+)
+
+y_deg = np.degrees(y)
+
+plt.figure(figsize=(8, 4))
+plt.plot(x_deg, y_deg)
+plt.grid(True)
+
+plt.xlabel('theta (degrees)')
+plt.ylabel('beta (degrees)')
+plt.show()
 ```
 
 Divider text
