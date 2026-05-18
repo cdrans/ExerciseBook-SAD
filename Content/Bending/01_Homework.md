@@ -10,7 +10,7 @@ You are not limited to the use of a scientific calculator for homewwork problems
 
 ## P16.2 (modified)
 
-````{exercise} Title
+````{exercise} Bending of an unsymmetric channel profile beam
 :label: hw_bending_1
 
 A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section supports two shear loads of 800 N and 400 N through the shear centre at its free end as shown below. Calculate the maximum normal stress due to bending that occurs at the fixed end of the beam and clearly indicate if it is tensile or compressive.
@@ -33,7 +33,7 @@ In order to determine the maximum bending stress, we need to:
 
 To accomplish this, we need to establish a centroidal coordinate frame for our analysis and references for locating the centroid and N.A.
 
-```{image} /Content/Bending/Figures/P16-2_I_1.svg
+```{figure} /Content/Bending/Figures/P16-2_I_1.svg
 :alt: Coordinate frame and references needed to solve the problem 
 :width: 500px
 :align: center
