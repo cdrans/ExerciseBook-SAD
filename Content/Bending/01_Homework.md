@@ -22,11 +22,6 @@ A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section sup
 ```
 ````
 
-```{figure} /Content/Bending/Figures/P16-2_I_1.svg
-:alt: Coordinate frame and references needed to solve the problem 
-:width: 80%
-:align: center
-```
 
 ````{solution} hw_bending_1
 :class: dropdown
@@ -39,7 +34,7 @@ In order to determine the maximum bending stress, we need to:
 
 To accomplish this, we need to establish a centroidal coordinate frame for our analysis and references for locating the centroid and N.A.
 
-```{figure} /Content/Bending/Figures/P16-2_I_1.svg
+```{figure} /Content/Bending/Figures/16-2_I_1.svg
 :alt: Coordinate frame and references needed to solve the problem 
 :width: 80%
 :align: center
