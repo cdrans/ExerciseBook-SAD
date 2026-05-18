@@ -1,9 +1,9 @@
 # Homework
-These are the reccomended homework problems for the topic of Bending. 
+These are the recommended homework problems for the topic of Bending. 
 
 ```{warning} Remember
 
-You are not limited to the use of a scientific calculator for homwework problems. You may use a graphing calculator or computer to aid you in repetative calculations or plotting functions for visualization.
+You are not limited to the use of a scientific calculator for homewwork problems. You may use a graphing calculator or computer to aid you in repetitive calculations or plotting functions for visualization.
 
 ```
 
@@ -46,7 +46,7 @@ Here are some conceptual questions to test your understanding of the problem.
 
 
 ## P16.4
-Consider the thin-walled cantilever beam of constant thickness t with the cross-section shown below. The beam is subjected to a point force 2P in the negative x-direction at its mid-span and a point forcee of P in the negative y-direction at its free end. Both forces act at the shear centre (ie: they do not cause any torsion). Calculate the parametric expressions for the bending stresses at points 1 and 2 as a function of z.
+Consider the thin-walled cantilever beam of constant thickness t with the cross-section shown below. The beam is subjected to a point force 2P in the negative x-direction at its mid-span and a point force of P in the negative y-direction at its free end. Both forces act at the shear centre (ie: they do not cause any torsion). Calculate the parametric expressions for the bending stresses at points 1 and 2 as a function of z.
 
 ```{figure} /Content/Bending/Figures/P16-4.svg
 :alt: Unsymmetric cantilever beam with horizontal load of 2P acting midspan and vertical load of P acting at its end. 
@@ -107,7 +107,7 @@ $\sigma  = \frac{{{M_x}}}{{{h^3}t}}\left( {0.91x + 0.50y} \right)$
 ```
 
 ## P16.6 (modified)
-Consider the thin-walled z-stiffener cross-section shown below where the angle of the web is defined parametrically by angle $\theta$ with resepct to the x-axis. For the given geometry and internal moment of $1.0~kNm$ shown below, calculate the location of the neutral axis ($\beta$) as functions of the web angle $\theta$. Then calculat the normal stresses at points 1, 2, 3 and 4 for angles $\theta = 30^\circ$, $60^\circ$, $90^\circ$, and $120^\circ$.
+Consider the thin-walled z-stiffener cross-section shown below where the angle of the web is defined parametrically by angle $\theta$ with respect to the x-axis. For the given geometry and internal moment of $1.0~kNm$ shown below, calculate the location of the neutral axis ($\beta$) as functions of the web angle $\theta$. Then calculate the normal stresses at points 1, 2, 3 and 4 for angles $\theta = 30^\circ$, $60^\circ$, $90^\circ$, and $120^\circ$.
 
 ```{image} /Content/Bending/Figures/P16-6.svg
 :alt: z-stiffener profile with internal horizontal moment of 10kNm and parametric web angle theta
