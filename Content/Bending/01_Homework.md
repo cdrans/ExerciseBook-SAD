@@ -1,15 +1,6 @@
 # Homework
 
-These are the recommended homework problems for the topic of Bending. We highly recommentd you follow the IDEA framework for approaching the solution of each problem. Write out your steps in this approach such that you can easily show a colleague and they could check your work. Effective communication of your solution is arguabbly more valaubale then getting the correct answer!
-
-```{figure} ../Figures/IDEA.svg
-:label: fig_IDEA
-:alt: IDEA framework for solving problems
-:width: 400px
-:align: center
-
-IDEA framework (Interpret, Develop, Evaluate, & Assess), adapted from https://freekpols.github.io/Mechanica/content/classic/language/ 
-```
+These are the recommended homework problems for the topic of Bending. We highly recommentd you follow the IDEA framework (see {numref}`fig_IDEA`) for approaching the solution of each problem. Write out your steps in this approach such that you can easily show a colleague and they could check your work. Effective communication of your solution is arguabbly more valaubale then getting the correct answer!
 
 ```{warning} Calculator/Computer Usage
 
