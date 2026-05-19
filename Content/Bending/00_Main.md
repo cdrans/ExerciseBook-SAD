@@ -7,6 +7,36 @@ kernelspec:
 # Bending Exercises
 Some introductory text goes here.
 
+# Testing 
+
+## Figure Testing
+
+*./Figures/test_image.svg*
+
+```{figure} ./Figures/test_image.svg
+:alt: Test image 
+:width: 400px
+:align: center
+```
+
+*/Figures/test_image.svg*
+
+```{figure} /Figures/test_image.svg
+:alt: Test image 
+:width: 400px
+:align: center
+```
+
+*Figures/test_image.svg*
+
+```{figure} Figures/test_image.svg
+:alt: Test image 
+:width: 400px
+:align: center
+```
+
+## Python Testing
+
 ```{code-cell} python
 :tags: [remove-input]
 import matplotlib.pyplot as plt
