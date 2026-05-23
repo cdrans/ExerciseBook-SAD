@@ -23,8 +23,6 @@ A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section sup
 ```
 ````
 
-### Test your understanding
-
 Here are some conceptual questions to test your understanding of the problem.
 
 <iframe src="https://tudelft.h5p.com/content/1292900671403187657/embed" aria-label="Homework Quiz - Bending P1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
