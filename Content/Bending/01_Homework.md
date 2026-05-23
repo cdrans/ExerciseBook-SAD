@@ -8,7 +8,8 @@ You are not limited to the use of a scientific calculator for homewwork problems
 
 ```
 
-## P16.2 (modified)
+## Exercise 1 
+(P16.2 - modified)
 
 ````{exercise} 
 :label: hw_bending_1
@@ -22,6 +23,11 @@ A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section sup
 ```
 ````
 
+### Test your understanding
+
+Here are some conceptual questions to test your understanding of the problem.
+
+<iframe src="https://tudelft.h5p.com/content/1292900671403187657/embed" aria-label="Homework Quiz - Bending P1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ````{solution} hw_bending_1
 :class: dropdown
@@ -48,13 +54,8 @@ and occurs at the free edge of the $1.0~mm$ thick flange of the beam cross-secti
 ::::
 ````
 
-### Test your understanding
-
-Here are some conceptual questions to test your understanding of the problem.
-
-<iframe src="https://tudelft.h5p.com/content/1292900671403187657/embed" aria-label="Homework Quiz - Bending P1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-## P16.4
+## Exercise 2 
+(P16.4)
 ````{exercise} 
 :label: hw_bending_2
 Consider the thin-walled cantilever beam of constant thickness t with the cross-section shown below. The beam is subjected to a point force 2P in the negative x-direction at its mid-span and a point force of P in the negative y-direction at its free end. Both forces act at the shear centre (ie: they do not cause any torsion). Calculate the parametric expressions for the bending stresses at points 1 and 2 as a function of z.
@@ -93,7 +94,8 @@ $M_y \left(z\right) = 2P\left(\frac{L}{2}-z\right)$ from $\left( 0 < z < \frac{L
 ::::
 ````
 
-## P16.5
+## Exercise 3
+(P16.5)
 
 ````{exercise} 
 :label: hw_bending_3
@@ -132,7 +134,8 @@ $\sigma  = \frac{{{M_x}}}{{{h^3}t}}\left( {0.91x + 0.50y} \right)$
 ::::
 ````
 
-## P16.6 (modified)
+## Exercise 4
+(P16.6 - modified)
 ````{exercise} 
 :label: hw_bending_4
 Consider the thin-walled z-stiffener cross-section shown below where the angle of the web is defined parametrically by angle $\theta$ with respect to the x-axis. For the given geometry and internal moment of $1.0~kNm$ shown below, calculate the location of the neutral axis ($\beta$) as functions of the web angle $\theta$. Then calculate the normal stresses at points 1, 2, 3 and 4 for angles $\theta = 30^\circ$, $60^\circ$, $90^\circ$, and $120^\circ$.
@@ -203,7 +206,8 @@ $I_{xy}\left(\theta\right) = \frac{2}{3}t{a^3}\sin \theta \cos \theta $
 ````
 
 
-## P16.8 (modified)
+## Exercise 5
+(P16.8 - modified)
 ````{exercise} 
 :label: hw_bending_5
 Consider the thin-walled S-stiffener cross-section with a constant thickness $t$ and an internal moment of $30~Nm$ aligned with the centroidal y-axis shown below. Calculate the angle of the neutral axis, $\beta$, and the maximum normal stress due to bending if $r = 10~mm$ and $t = 0.8~mm$.
