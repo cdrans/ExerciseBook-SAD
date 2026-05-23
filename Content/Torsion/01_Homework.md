@@ -13,7 +13,7 @@ Question goes here
 
 ```{figure} /Content/Bending/Figures/P16-2.svg
 :alt: Unsymmetric cantilever beam with horizontal load of 400 N and vertical load of 800 N acting at its end
-:width: 600px
+:width: 100%
 :align: center
 ```
 

@@ -22,7 +22,7 @@ Throughout this book, it is recommended that problems are approached in a struct
 ```{figure} ./Figures/IDEA.svg
 :label: fig_IDEA
 :alt: IDEA framework for solving problems
-:width: 300px
+:width: 80%
 :align: center
 
 IDEA framework (Interpret, Develop, Evaluate, & Assess), adapted from https://freekpols.github.io/Mechanica/content/classic/language/ 

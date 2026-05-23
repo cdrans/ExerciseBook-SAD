@@ -17,7 +17,7 @@ A 2000 mm long thin-walled cantilever beam with an unsymmetric cross-section sup
 
 ```{figure} ./Figures/P16-2.svg
 :alt: Unsymmetric cantilever beam with horizontal load of 400 N and vertical load of 800 N acting at its end
-:width: 600px
+:width: 90%
 :align: center
 ```
 ````
@@ -61,7 +61,7 @@ Consider the thin-walled cantilever beam of constant thickness t with the cross-
 
 ```{figure} ./Figures/P16-4.svg
 :alt: Unsymmetric cantilever beam with horizontal load of 2P acting midspan and vertical load of P acting at its end. 
-:width: 600px
+:width: 90%
 :align: center
 ```
 ````
@@ -103,7 +103,7 @@ Consider the thin-walled z-stiffener profile cross-section shown below. Calculat
 
 ```{image} ./Figures/P16-5.svg
 :alt: unsymmetric z-stiffener profile. Top flange is width h/2 and thickness 2t. Lower flange is width h and thickness t. Vertical web is height 2t and width 2t. 
-:width: 300px
+:width: 50%
 :align: center
 ```
 ````
@@ -117,7 +117,7 @@ $\sigma  = \frac{{{M_x}}}{{{h^3}t}}\left( {0.91x + 0.50y} \right)$
 
 ```{image} ./Figures/P16-5_sol.svg
 :alt: normal stress distribution 
-:width: 300px
+:width: 50%
 :align: center
 ```
 
@@ -139,7 +139,7 @@ Consider the thin-walled z-stiffener cross-section shown below where the angle o
 
 ```{image} ./Figures/P16-6.svg
 :alt: z-stiffener profile with internal horizontal moment of 10kNm and parametric web angle theta
-:width: 250px
+:width: 40%
 :align: center
 ```
 ````
@@ -210,7 +210,7 @@ Consider the thin-walled S-stiffener cross-section with a constant thickness $t$
 
 ```{image} ./Figures/P16-8.svg
 :alt: S-stiffener profile with internal horizontal moment of 50Nm
-:width: 300px
+:width: 50%
 :align: center
 ```
 ````
