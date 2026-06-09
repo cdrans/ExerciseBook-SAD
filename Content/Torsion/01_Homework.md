@@ -90,7 +90,7 @@ Calculate the following:
 - the distribution of angle of twist along the length of the beam (use the centre of the beam, $z = 0$, as your datum for expressing the angle of twist of the beam)
 
 ```{figure} ./Figures/hw_torsion_2.svg
-:alt: Torsional with symmetric loading across the midpoint of the shaft. Subjected to a uniform distributed torque and 4 point torques.
+:alt: Torsional shaft with symmetric loading across the midpoint of the shaft. Subjected to a uniform distributed torque and 4 point torques.
 :width: 100%
 :align: center
 ```
@@ -118,6 +118,8 @@ $\theta \left( z \right) = \frac{1}{{2\pi {r^3} \cdot G \cdot t}}\left( {{T_0}z 
 :::
 :::{tab-item} Intermediate Answers
 
+Note, the internal loading at $z = 0$ is $0~Nm$ and the internal loading is symmetric across the datum
+
 **Internal Loading**
 
 For $\left( 0 < z < 500~mm \right)$:
@@ -132,6 +134,42 @@ $T \left( z \right) = 1450~Nm - wz$
 :::
 ::::
 ````
+
+## Exercise 3
+
+
+````{exercise} 
+:label: hw_torsion_3
+
+Consider the tapered thin-walled cantilever beam with a closed rectangular cross-section shown below. The beam has a constant width of $100~mm$; constant thickness, $t = 1.0~mm$; and varies in height from $300~mm$ at its free end to $400~mm$ at its fixed end. The beam is made of a metal alloy with a shear modulus $G = 25~GPa$ and is subjected to $5~kNm$ torque at its free end. Calculate the following:
+- maximum shear stress in the beam 
+- rate of twist along the beam at 1000 mm intervals along the beam
+- angle of twist of the free end of the beam, approximated using the previously calculated rates of twist
+
+```{figure} ./Figures/hw_torsion_3.svg
+:alt: Tapered thin-walled canteliever beam with constant width and thickness subjected to a 5kNm torque at its free end.
+:width: 80%
+:align: center
+```
+
+````
+
+````{solution} hw_torsion_3
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+text
+
+:::
+:::{tab-item} Intermediate Answers
+
+text
+
+:::
+::::
+````
+
 
 
 
