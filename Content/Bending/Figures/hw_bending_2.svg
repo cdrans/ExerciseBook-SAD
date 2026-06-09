@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 300304 39644.793"
+   version="1.1"
+   sodipodi:docname="P16-4.svg"
+   width="300304"
+   height="39644.793"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview81"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="300304"
+       height="39644.793"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs31">
+    <style
+       id="style1">
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5, .cls-9, .cls-8 {
+        stroke: #231f20;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        stroke-width: .75px;
+      }
+
+      .cls-3, .cls-7 {
+        stroke: #009444;
+      }
+
+      .cls-11 {
+        fill: url(#_10_lpi_10_);
+      }
+
+      .cls-12, .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill: #231f20;
+      }
+
+      .cls-18, .cls-19, .cls-13 {
+        fill: #3a54a4;
+      }
+
+      .cls-5, .cls-9, .cls-6, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-15, .cls-19, .cls-16, .cls-17, .cls-13, .cls-20 {
+        font-size: 12px;
+      }
+
+      .cls-15, .cls-17 {
+        font-family: AtkinsonHyperlegibleNext-RegularItalic, 'Atkinson Hyperlegible Next';
+        font-style: italic;
+      }
+
+      .cls-9 {
+        fill: #e6e7e8;
+        stroke-width: 1.5px;
+      }
+
+      .cls-6 {
+        stroke: #3a54a4;
+        stroke-width: 3px;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-19, .cls-16, .cls-13 {
+        font-family: AtkinsonHyperlegibleNext-Medium, 'Atkinson Hyperlegible Next';
+        font-weight: 500;
+      }
+
+      .cls-23, .cls-20 {
+        fill: #009444;
+      }
+
+      .cls-8 {
+        stroke-width: .72px;
+      }
+
+      .cls-24 {
+        letter-spacing: .01em;
+      }
+
+      .cls-20 {
+        font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
+      }
+
+      .cls-25 {
+        letter-spacing: .02em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <pattern
+       id="_10_lpi_10_"
+       data-name="10 lpi 10%"
+       x="0"
+       y="0"
+       width="72"
+       height="72"
+       patternTransform="translate(-503.5525 -8204.8883) rotate(-47.2955) scale(.6881) skewX(-4.5763)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 72 72">
+      <g
+         id="g31">
+        <rect
+           class="cls-4"
+           width="72"
+           height="72"
+           id="rect1" />
+        <g
+           id="g10">
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="68.4"
+             x2="144.25"
+             y2="68.4"
+             id="line1" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="54"
+             x2="144.25"
+             y2="54"
+             id="line2" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="39.6"
+             x2="144.25"
+             y2="39.6"
+             id="line3" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="25.2"
+             x2="144.25"
+             y2="25.2"
+             id="line4" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="10.8"
+             x2="144.25"
+             y2="10.8"
+             id="line5" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="61.2"
+             x2="144.25"
+             y2="61.2"
+             id="line6" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="46.8"
+             x2="144.25"
+             y2="46.8"
+             id="line7" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="32.4"
+             x2="144.25"
+             y2="32.4"
+             id="line8" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="18"
+             x2="144.25"
+             y2="18"
+             id="line9" />
+          <line
+             class="cls-8"
+             x1="71.75"
+             y1="3.6"
+             x2="144.25"
+             y2="3.6"
+             id="line10" />
+        </g>
+        <g
+           id="g20">
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="68.4"
+             x2="72.25"
+             y2="68.4"
+             id="line11" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="54"
+             x2="72.25"
+             y2="54"
+             id="line12" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="39.6"
+             x2="72.25"
+             y2="39.6"
+             id="line13" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="25.2"
+             x2="72.25"
+             y2="25.2"
+             id="line14" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="10.8"
+             x2="72.25"
+             y2="10.8"
+             id="line15" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="61.2"
+             x2="72.25"
+             y2="61.2"
+             id="line16" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="46.8"
+             x2="72.25"
+             y2="46.8"
+             id="line17" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="32.4"
+             x2="72.25"
+             y2="32.4"
+             id="line18" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="18"
+             x2="72.25"
+             y2="18"
+             id="line19" />
+          <line
+             class="cls-8"
+             x1="-.25"
+             y1="3.6"
+             x2="72.25"
+             y2="3.6"
+             id="line20" />
+        </g>
+        <g
+           id="g30">
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="68.4"
+             x2=".25"
+             y2="68.4"
+             id="line21" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="54"
+             x2=".25"
+             y2="54"
+             id="line22" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="39.6"
+             x2=".25"
+             y2="39.6"
+             id="line23" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="25.2"
+             x2=".25"
+             y2="25.2"
+             id="line24" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="10.8"
+             x2=".25"
+             y2="10.8"
+             id="line25" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="61.2"
+             x2=".25"
+             y2="61.2"
+             id="line26" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="46.8"
+             x2=".25"
+             y2="46.8"
+             id="line27" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="32.4"
+             x2=".25"
+             y2="32.4"
+             id="line28" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="18"
+             x2=".25"
+             y2="18"
+             id="line29" />
+          <line
+             class="cls-8"
+             x1="-72.25"
+             y1="3.6"
+             x2=".25"
+             y2="3.6"
+             id="line30" />
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g
+     id="g32">
+    <line
+       class="cls-5"
+       x1="316.22"
+       y1="49.93"
+       x2="256.06"
+       y2="17.67"
+       id="line31" />
+    <path
+       class="cls-14"
+       d="m 257.24,18.3 0.17,3.16 h -0.11 c 0,0 -3.06,-3.61 -3.06,-3.61 -1.19,-1.02 -2.39,-2.05 -3.58,-3.07 1.51,0.43 3.02,0.86 4.54,1.28 l 4.71,0.54 0.06,0.08 z"
+       id="path31" />
+  </g>
+  <g
+     id="g33">
+    <line
+       class="cls-5"
+       x1="316.22"
+       y1="75.010002"
+       x2="316.22"
+       y2="113.89"
+       id="line32" />
+    <path
+       class="cls-14"
+       d="m 316.22,112.54 2.7,-1.64 0.06,0.09 -1.75,4.41 c -0.34,1.54 -0.68,3.07 -1.01,4.61 -0.34,-1.54 -0.68,-3.07 -1.01,-4.61 l -1.75,-4.41 0.05,-0.09 2.72,1.64 z"
+       id="path32" />
+  </g>
+  <polygon
+     class="cls-11"
+     points="300.78,4.19 357.28,34.8 357.28,59.63 336.89,50.58 336.72,90.67 300.78,73.2 "
+     id="polygon33" />
+  <rect
+     class="cls-2"
+     x="459.22"
+     y="64.669998"
+     width="36"
+     height="72"
+     id="rect33" />
+  <line
+     class="cls-2"
+     x1="531.21997"
+     y1="64.669998"
+     x2="495.22"
+     y2="64.669998"
+     id="line33" />
+  <line
+     class="cls-2"
+     x1="423.22"
+     y1="136.67"
+     x2="459.22"
+     y2="136.67"
+     id="line34" />
+  <g
+     id="g35">
+    <line
+       class="cls-5"
+       x1="477.22"
+       y1="100.67"
+       x2="477.22"
+       y2="157.55"
+       id="line35" />
+    <path
+       class="cls-14"
+       d="m 477.22,156.21 2.7,-1.64 0.06,0.09 -1.75,4.41 c -0.34,1.54 -0.68,3.07 -1.01,4.61 -0.34,-1.54 -0.68,-3.07 -1.01,-4.61 l -1.75,-4.41 0.05,-0.09 2.72,1.64 z"
+       id="path35" />
+  </g>
+  <text
+     class="cls-15"
+     id="text35"
+     x="474.22"
+     y="171.67"><tspan
+       x="474.22"
+       y="171.67"
+       id="tspan35">y</tspan></text>
+  <g
+     id="g36">
+    <line
+       class="cls-5"
+       x1="477.22"
+       y1="100.67"
+       x2="432.34"
+       y2="100.67"
+       id="line36" />
+    <path
+       class="cls-14"
+       d="m 433.68,100.67 1.64,2.7 -0.09,0.06 -4.41,-1.75 c -1.54,-0.34 -3.07,-0.68 -4.61,-1.01 1.54,-0.34 3.07,-0.68 4.61,-1.01 l 4.41,-1.75 0.09,0.05 -1.64,2.72 z"
+       id="path36" />
+  </g>
+  <text
+     class="cls-17"
+     id="text36"
+     x="416.78"
+     y="102.78"><tspan
+       x="416.78"
+       y="102.78"
+       id="tspan36">x</tspan></text>
+  <g
+     id="g37">
+    <line
+       class="cls-3"
+       x1="465.88"
+       y1="84.440002"
+       x2="472.45001"
+       y2="84.440002"
+       id="line37" />
+    <polygon
+       class="cls-23"
+       points="466.92,85.97 461.23,84.44 466.92,82.92 "
+       id="polygon37" />
+  </g>
+  <g
+     id="g38">
+    <line
+       class="cls-3"
+       x1="453.35999"
+       y1="84.440002"
+       x2="446.89999"
+       y2="84.440002"
+       id="line38" />
+    <polygon
+       class="cls-23"
+       points="452.32,82.92 458.01,84.44 452.32,85.97 "
+       id="polygon38" />
+  </g>
+  <text
+     class="cls-20"
+     id="text38"
+     x="439.10999"
+     y="87.949997"><tspan
+       x="439.10999"
+       y="87.949997"
+       id="tspan38">t</tspan></text>
+  <g
+     id="g43">
+    <line
+       class="cls-3"
+       x1="459.66"
+       y1="56.779999"
+       x2="459.66"
+       y2="38.779999"
+       id="line39" />
+    <line
+       class="cls-3"
+       x1="495.66"
+       y1="56.779999"
+       x2="495.66"
+       y2="38.779999"
+       id="line40" />
+    <g
+       id="g42">
+      <line
+         class="cls-3"
+         x1="466.31"
+         y1="45.779999"
+         x2="489.01999"
+         y2="45.779999"
+         id="line41" />
+      <polygon
+         class="cls-23"
+         points="467.79,47.96 459.66,45.78 467.79,43.6 "
+         id="polygon41" />
+      <polygon
+         class="cls-23"
+         points="487.53,47.96 495.66,45.78 487.53,43.6 "
+         id="polygon42" />
+    </g>
+  </g>
+  <text
+     class="cls-20"
+     id="text43"
+     x="468.22"
+     y="37.669998"><tspan
+       x="468.22"
+       y="37.669998"
+       id="tspan43">a/2</tspan></text>
+  <line
+     class="cls-3"
+     x1="531.21997"
+     y1="56.779999"
+     x2="531.21997"
+     y2="38.779999"
+     id="line43" />
+  <g
+     id="g45">
+    <line
+       class="cls-3"
+       x1="501.87"
+       y1="45.779999"
+       x2="524.58002"
+       y2="45.779999"
+       id="line44" />
+    <polygon
+       class="cls-23"
+       points="503.35,47.96 495.22,45.78 503.35,43.6 "
+       id="polygon44" />
+    <polygon
+       class="cls-23"
+       points="523.09,47.96 531.22,45.78 523.09,43.6 "
+       id="polygon45" />
+  </g>
+  <text
+     class="cls-20"
+     id="text45"
+     x="503.78"
+     y="37.669998"><tspan
+       x="503.78"
+       y="37.669998"
+       id="tspan45">a/2</tspan></text>
+  <g
+     id="g49">
+    <line
+       class="cls-3"
+       x1="414.22"
+       y1="64.669998"
+       x2="396.22"
+       y2="64.669998"
+       id="line45" />
+    <line
+       class="cls-3"
+       x1="414.22"
+       y1="136.67"
+       x2="396.22"
+       y2="136.67"
+       id="line46" />
+    <g
+       id="g48">
+      <line
+         class="cls-3"
+         x1="403.22"
+         y1="71.309998"
+         x2="403.22"
+         y2="130.02"
+         id="line47" />
+      <polygon
+         class="cls-23"
+         points="401.04,72.8 403.22,64.67 405.4,72.8 "
+         id="polygon47" />
+      <polygon
+         class="cls-23"
+         points="401.04,128.54 403.22,136.67 405.4,128.54 "
+         id="polygon48" />
+    </g>
+  </g>
+  <text
+     class="cls-20"
+     id="text49"
+     x="387.22"
+     y="100.67"><tspan
+       x="387.22"
+       y="100.67"
+       id="tspan49">a</tspan></text>
+  <g
+     id="g53">
+    <line
+       class="cls-3"
+       x1="459.22"
+       y1="145.67"
+       x2="459.22"
+       y2="163.67"
+       id="line49" />
+    <line
+       class="cls-3"
+       x1="423.22"
+       y1="145.67"
+       x2="423.22"
+       y2="163.67"
+       id="line50" />
+    <g
+       id="g52">
+      <line
+         class="cls-3"
+         x1="452.57999"
+         y1="156.67"
+         x2="429.87"
+         y2="156.67"
+         id="line51" />
+      <polygon
+         class="cls-23"
+         points="451.09,154.49 459.22,156.67 451.09,158.85 "
+         id="polygon51" />
+      <polygon
+         class="cls-23"
+         points="431.35,154.49 423.22,156.67 431.35,158.85 "
+         id="polygon52" />
+    </g>
+  </g>
+  <text
+     class="cls-20"
+     id="text53"
+     x="432.22"
+     y="172.67"><tspan
+       x="432.22"
+       y="172.67"
+       id="tspan53">a/2</tspan></text>
+  <text
+     class="cls-17"
+     id="text54"
+     x="533.54999"
+     y="63.110001"><tspan
+       x="533.54999"
+       y="63.110001"
+       id="tspan54">1</tspan></text>
+  <text
+     class="cls-17"
+     id="text55"
+     x="449.75"
+     y="63.110001"><tspan
+       x="449.75"
+       y="63.110001"
+       id="tspan55">2</tspan></text>
+  <text
+     class="cls-17"
+     id="text56"
+     x="497"
+     y="149.03999"><tspan
+       x="497"
+       y="149.03999"
+       id="tspan56">3</tspan></text>
+  <text
+     class="cls-17"
+     id="text57"
+     x="412.64001"
+     y="149.03999"><tspan
+       x="412.64001"
+       y="149.03999"
+       id="tspan57">4</tspan></text>
+  <text
+     class="cls-16"
+     id="text67"
+     x="434.45001"
+     y="191.61"><tspan
+       x="434.45001"
+       y="191.61"
+       id="tspan58">C</tspan><tspan
+       class="cls-1"
+       x="442.26001"
+       y="191.61"
+       id="tspan59">R</tspan><tspan
+       class="cls-21"
+       x="449.69"
+       y="191.61"
+       id="tspan60">OS</tspan><tspan
+       class="cls-25"
+       x="465.64001"
+       y="191.61"
+       id="tspan61">S</tspan><tspan
+       class="cls-21"
+       x="473.13"
+       y="191.61"
+       id="tspan62">-S</tspan><tspan
+       class="cls-22"
+       x="484.73001"
+       y="191.61"
+       id="tspan63">E</tspan><tspan
+       class="cls-24"
+       x="491.44"
+       y="191.61"
+       id="tspan64">C</tspan><tspan
+       class="cls-10"
+       x="499.42999"
+       y="191.61"
+       id="tspan65">T</tspan><tspan
+       class="cls-26"
+       x="506.39999"
+       y="191.61"
+       id="tspan66">I</tspan><tspan
+       class="cls-21"
+       x="510.98999"
+       y="191.61"
+       id="tspan67">ON</tspan></text>
+  <polygon
+     class="cls-9"
+     points="65.22,153.67 326.22,73.36 290.22,55.36 29.22,135.67 "
+     id="polygon67" />
+  <polygon
+     class="cls-9"
+     points="308.22,64.36 308.22,18.67 47.22,99.67 47.22,144.67 "
+     id="polygon68" />
+  <polygon
+     class="cls-9"
+     points="326.22,73.36 326.22,27.67 65.22,108.67 65.22,153.67 "
+     id="polygon69" />
+  <polygon
+     class="cls-9"
+     points="83.22,117.67 344.22,35.83 308.22,18.67 47.22,99.67 "
+     id="polygon70" />
+  <line
+     class="cls-7"
+     x1="65.220001"
+     y1="160.55"
+     x2="65.220001"
+     y2="184.78"
+     id="line70" />
+  <g
+     id="g72">
+    <line
+       class="cls-7"
+       x1="71.57"
+       y1="175.33"
+       x2="205.87"
+       y2="134.00999"
+       id="line71" />
+    <polygon
+       class="cls-23"
+       points="73.63,176.97 65.22,177.28 72.35,172.81 "
+       id="polygon71" />
+    <polygon
+       class="cls-23"
+       points="205.09,136.53 212.22,132.05 203.81,132.36 "
+       id="polygon72" />
+  </g>
+  <text
+     class="cls-20"
+     id="text72"
+     x="142.17999"
+     y="168"><tspan
+       x="142.17999"
+       y="168"
+       id="tspan72">L/2</tspan></text>
+  <g
+     id="g74">
+    <line
+       class="cls-7"
+       x1="218.55"
+       y1="130.03999"
+       x2="320.45999"
+       y2="97.690002"
+       id="line72" />
+    <polygon
+       class="cls-23"
+       points="220.63,131.67 212.22,132.05 219.31,127.51 "
+       id="polygon73" />
+    <polygon
+       class="cls-23"
+       points="319.7,100.22 326.79,95.68 318.38,96.07 "
+       id="polygon74" />
+  </g>
+  <text
+     class="cls-20"
+     id="text74"
+     x="271.25"
+     y="126.29"><tspan
+       x="271.25"
+       y="126.29"
+       id="tspan74">L/2</tspan></text>
+  <line
+     class="cls-7"
+     x1="212.22"
+     y1="92.169998"
+     x2="212.22"
+     y2="136.34"
+     id="line74" />
+  <line
+     class="cls-7"
+     x1="326.22"
+     y1="78.550003"
+     x2="326.22"
+     y2="102.78"
+     id="line75" />
+  <g
+     id="g76">
+    <line
+       class="cls-6"
+       x1="244.17999"
+       y1="107.92"
+       x2="212.22"
+       y2="91.949997"
+       id="line76" />
+    <polygon
+       class="cls-18"
+       points="243.47,102.7 256.06,113.87 239.57,110.49 "
+       id="polygon76" />
+  </g>
+  <text
+     class="cls-19"
+     id="text77"
+     x="256.06"
+     y="108.28"><tspan
+       x="256.06"
+       y="108.28"
+       id="tspan76">2</tspan><tspan
+       class="cls-12"
+       x="262.79999"
+       y="108.28"
+       id="tspan77">P</tspan></text>
+  <text
+     class="cls-13"
+     id="text78"
+     x="51.790001"
+     y="59"><tspan
+       x="51.790001"
+       y="59"
+       id="tspan78">P</tspan></text>
+  <text
+     class="cls-17"
+     id="text79"
+     x="236.08"
+     y="14.78"><tspan
+       x="236.08"
+       y="14.78"
+       id="tspan79">x</tspan></text>
+  <text
+     class="cls-15"
+     id="text80"
+     x="313.51001"
+     y="129.8"><tspan
+       x="313.51001"
+       y="129.8"
+       id="tspan80">y</tspan></text>
+  <g
+     id="g80">
+    <line
+       class="cls-5"
+       x1="54.459999"
+       y1="124.84"
+       x2="20.75"
+       y2="133.27"
+       id="line80" />
+    <path
+       class="cls-14"
+       d="m 22.05,132.94 2.25,2.22 -0.07,0.08 -4.7,-0.63 c -1.57,0.04 -3.14,0.09 -4.71,0.13 1.41,-0.7 2.81,-1.4 4.22,-2.1 l 3.85,-2.77 0.1,0.02 -0.94,3.03 z"
+       id="path80" />
+  </g>
+  <text
+     class="cls-17"
+     id="text81"
+     x="5.3499999"
+     y="139.64999"><tspan
+       x="5.3499999"
+       y="139.64999"
+       id="tspan81">z</tspan></text>
+  <g
+     id="g81">
+    <line
+       class="cls-6"
+       x1="55.759998"
+       y1="133.99001"
+       x2="55.759998"
+       y2="74.730003"
+       id="line81" />
+    <polygon
+       class="cls-18"
+       points="60.11,77.7 55.76,61.44 51.4,77.7 "
+       id="polygon81" />
+  </g>
+</svg>
