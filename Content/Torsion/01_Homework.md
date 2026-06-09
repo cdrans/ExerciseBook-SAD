@@ -20,7 +20,7 @@ Calculate the following:
 - magnitude and location of the maximum shear stress in the beam
 - the distribution of angle of twist along the length of the beam
 
-```{figure} ./Figures/P18-1_modified.svg
+```{figure} ./Figures/hw_torsion_1.svg
 :alt: Multi-material thin-walled rectangular cantilever beam with a distributed torque of 30Nm/mm and a point torque of 20kNm in the opposite direction of the distributed torque applied at the free end of the beam.
 :width: 100%
 :align: center
@@ -85,27 +85,49 @@ $\frac{{d\theta }}{{dz}}\left( z \right) =  - 8.044 \times {10^{ - 6}}\left[ {\f
 Consider the $2000~mm$ long uniform, thin-walled, beam with a closed circular cross-section. The beam is made of a metal alloy with a shear modulus $G = 30~GPa$ and has a constant wall-thickness of $2.5~mm$. The FBD of the beam below shows the applied loading consisting of a distributed torque of $1.0~Nm/mm$ and two point end torques of $450~Nm$ all acting in the same direction. This loading is reacted by two moment couples, $T$, acting $500~mm$ from each end of the beam. 
 
 Calculate the following:
+- magnitude of $T$ required to keep the beam in static equilibrium
 - magnitude and location of the maximum shear stress in the beam
-- the distribution of angle of twist along the length of the beam
+- the distribution of angle of twist along the length of the beam (use the centre of the beam, $z = 0$, as your datum for expressing the angle of twist of the beam)
 
-```{figure} ./Figures/P18-3.svg
+```{figure} ./Figures/hw_torsion_2.svg
 :alt: Torsional with symmetric loading across the midpoint of the shaft. Subjected to a uniform distributed torque and 4 point torques.
 :width: 100%
 :align: center
 ```
 ````
-
+ 
 ````{solution} hw_torsion_2
 :class: dropdown
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-text
+$T_o = 1450~Nm$
+
+$\tau_{max} = 24.2~MPa$ at $z = \pm 500~mm$
+
+**Angle of Twist**
+
+For $\left( 0 < z < 500~mm \right)$:
+
+$\theta \left( z \right) =  - \frac{w}{{4\pi {r^3} \cdot G \cdot t}}{z^2} = - 0.85 \times {10^{ - 9}}\left[ {\frac{{rad}}{{m{m^2}}}} \right] \cdot {z^2}$
+
+For $\left( 500~mm < z < 1000~mm \right)$:
+
+$\theta \left( z \right) = \frac{1}{{2\pi {r^3} \cdot G \cdot t}}\left( {{T_0}z - w\frac{{{z^2}}}{2}} \right) - 12.33 \times {10^{ - 3}}\left[ {rad} \right] = 1.70 \times {10^{ - 8}}\left( {1450z - \frac{{{z^2}}}{2}} \right)\left[ {\frac{{rad}}{{m{m^2}}}} \right] - 12.33 \times {10^{ - 3}}\left[ {rad} \right]$
 
 :::
 :::{tab-item} Intermediate Answers
 
-text
+**Internal Loading**
+
+For $\left( 0 < z < 500~mm \right)$:
+
+$T \left( z \right) =  -wz$
+
+For $\left( 500~mm < z < 1000~mm \right)$:
+
+$T \left( z \right) = 1450~Nm - wz$
+
 
 :::
 ::::
