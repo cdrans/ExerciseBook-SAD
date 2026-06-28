@@ -159,12 +159,115 @@ Consider the tapered thin-walled cantilever beam with a closed rectangular cross
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-text
+**Maximum Shear Stress**: $\tau_{max} = 83.3MPa$ 
+
+**Rate of Twist**: 
+
+|  distance from fixed end [mm]    | $d \theta$ [deg/m] |
+| -------- | ------- |
+| 0       | 1.343   | 
+| 1000       | 1.480    | 
+| 2000     | 1.647    | 
+| 3000     | 1.857   | 
+
+**Estimated Angle of Twist**: $\theta \approx 4.74^\circ$ 
 
 :::
 :::{tab-item} Intermediate Answers
 
-text
+Etablish coordinate frame. For this solution, z is the position along the legnth of the beam where $z = 0$ corresponds to the fixed end.
+
+$h\left( z \right) = 400\left[ {mm} \right] - 0.033z$
+
+$ A_m \left( z \right) = 4 \times {10^4}\left[ {m{m^2}} \right] - 3.33\left[ {mm} \right] \cdot z$
+
+**How to Estimate Angle of Twist**: 
+
+We can estimate the angle of twist using the intervals of rate of twist by applying the trapazoidal rule, since the angle of twist would be the integral of rate of twist along the length of the beam, and thus the area under the rate of twist vs position along beam graph.
+
+If the angle of twist is calculated by integration rather than estimation, then you get $\theta = 4.718^\circ$
+
+:::
+::::
+````
+
+## Exercise 4
+
+
+````{exercise} 
+:label: hw_torsion_4
+
+Consider a thin-walled aluminum beam ($G = 30~GPa$) with the cross-section shown below. All of the dimensions of the cross-section are set below, except for the constant thickness, $t$, which you need to determine based on the below design requirements. Determine the appropriate thickness that meets the foloowing requirements:
+1. Section must withstand an internal torque of $80~Nm$
+2. Maximum allowable shear stress: $\tau_{max} = 175~MPa$
+3. Maximum rate of twist: $\left( \frac{d\theta}{dz} \right)_{max} = 1~\frac{rad}{m}$
+4. Thickness must be specified in tenths of a millimeter    
+5. Weight must be minimized
+
+
+```{figure} ./Figures/hw_torsion_4.svg
+:alt: Thin=walled beam cross-section with a constant thickness t
+:width: 60%
+:align: center
+```
+````
+
+````{solution} hw_torsion_4
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+The thickness of the section that meets all of the design requirements is: 
+
+$t = 3.4~mm$
+
+:::
+:::{tab-item} Intermediate Answers
+
+Minimum thickness for requirement 2: $t_{min} = 2.593~mm$
+
+Minimum thickness for requirement 3: $t_{min} = 3.397~mm$
+
+Based on above, and considering requirement 4 and 5, the minimum thickness would be:
+
+$t_{min} = 3.4~mm$
+
+At this thickness: $\tau_{max} = 102~MPa$ and $\frac{d\theta}{dz} = 0.998~\frac{rad}{m}$
+
+:::
+::::
+````
+
+## Exercise 5
+
+
+````{exercise} 
+:label: hw_torsion_5
+
+Consider a thin-walled beam with the parametric cross-section shown below. Calculate the parametric magnitudes of the maximum shear stress and the rate of twist of the beam for an internal torque $T$. You can assume the beam is made of a single material with shear modulus $G$ for your calculations. 
+
+```{figure} ./Figures/hw_torsion_5.svg
+:alt: Thin-walled beam cross-section with regions of thickness of 2t and t.
+:width: 50%
+:align: center
+```
+````
+
+
+````{solution} hw_torsion_5
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+$\tau_{max} = \frac{0.284T}{rt^2}$ (occurs in thicker portions of the beam)
+
+$\frac{d\theta}{dz} = \frac{0.142T}{rt^3}$
+
+:::
+:::{tab-item} Intermediate Answers
+
+From compatability: $T_{12} = T_{67} = 1.556T_{26}$
+
+From superposition: $T = 2T_{12} + T_{26}$
 
 :::
 ::::
