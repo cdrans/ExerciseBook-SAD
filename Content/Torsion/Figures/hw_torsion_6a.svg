@@ -33,7 +33,7 @@
         fill: none;
       }
 
-      .cls-21, .cls-22, .cls-23 {
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
         fill: #231f20;
       }
 
@@ -45,7 +45,7 @@
         fill: #bcbec0;
       }
 
-      .cls-12, .cls-24 {
+      .cls-12, .cls-26 {
         fill: #fff;
       }
 
@@ -61,11 +61,11 @@
         fill: url(#linear-gradient-2);
       }
 
-      .cls-13, .cls-25, .cls-26, .cls-27, .cls-28 {
+      .cls-13, .cls-27, .cls-28, .cls-29, .cls-30 {
         fill: #009444;
       }
 
-      .cls-29 {
+      .cls-31 {
         letter-spacing: 0em;
       }
 
@@ -73,11 +73,11 @@
         stroke-width: .75px;
       }
 
-      .cls-30 {
+      .cls-32 {
         letter-spacing: -.01em;
       }
 
-      .cls-31 {
+      .cls-33 {
         letter-spacing: 0em;
       }
 
@@ -85,15 +85,15 @@
         stroke-dasharray: 1.93 1.93;
       }
 
-      .cls-32 {
+      .cls-34 {
         letter-spacing: .02em;
       }
 
-      .cls-22, .cls-33, .cls-27, .cls-28 {
+      .cls-22, .cls-35, .cls-29, .cls-30 {
         font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
       }
 
-      .cls-34 {
+      .cls-36 {
         letter-spacing: 0em;
       }
 
@@ -101,36 +101,49 @@
         stroke: #3a75bb;
       }
 
-      .cls-35 {
+      .cls-37 {
         letter-spacing: 0em;
       }
 
-      .cls-33 {
+      .cls-35 {
         font-size: 9px;
       }
 
-      .cls-33, .cls-36 {
+      .cls-35, .cls-38 {
         fill: #3a75bb;
       }
 
-      .cls-37 {
+      .cls-39 {
         letter-spacing: .02em;
       }
 
-      .cls-38 {
+      .cls-40 {
         letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-23, .cls-24 {
+        font-family: AtkinsonHyperlegibleNext-Medium, 'Atkinson Hyperlegible Next';
+        font-weight: 500;
+      }
+
+      .cls-23, .cls-24, .cls-41, .cls-28, .cls-29, .cls-30 {
+        font-size: 12px;
       }
 
       .cls-8 {
         stroke-width: .25px;
       }
 
-      .cls-23 {
+      .cls-25 {
         font-family: Georgia, Georgia;
         font-size: 7px;
       }
 
-      .cls-39 {
+      .cls-42 {
         letter-spacing: -.02em;
       }
 
@@ -138,39 +151,35 @@
         fill: url(#linear-gradient);
       }
 
-      .cls-40 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-41 {
-        letter-spacing: 0em;
-      }
-
-      .cls-42, .cls-26, .cls-27, .cls-28 {
-        font-size: 12px;
-      }
-
       .cls-43 {
-        letter-spacing: 0em;
+        letter-spacing: -.02em;
       }
 
       .cls-44 {
-        letter-spacing: -.03em;
+        letter-spacing: 0em;
       }
 
-      .cls-26 {
-        font-family: MyriadPro-Regular, 'Myriad Pro';
-      }
-
-      .cls-27, .cls-45 {
-        letter-spacing: -.02em;
+      .cls-45 {
+        letter-spacing: 0em;
       }
 
       .cls-46 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-28 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-29, .cls-47 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-48 {
         font-size: 10px;
       }
 
-      .cls-47 {
+      .cls-49 {
         letter-spacing: 0em;
       }
 
@@ -178,7 +187,7 @@
         stroke-width: .72px;
       }
 
-      .cls-48 {
+      .cls-50 {
         letter-spacing: -.04em;
       }
 
@@ -186,7 +195,7 @@
         fill: url(#_10_lpi_10_);
       }
 
-      .cls-49 {
+      .cls-51 {
         letter-spacing: -.02em;
       }
 
@@ -194,7 +203,7 @@
         fill: #808285;
       }
 
-      .cls-50 {
+      .cls-52 {
         letter-spacing: 0em;
       }
     </style>
@@ -505,14 +514,14 @@
          id="polygon33" />
     </g>
     <text
-       class="cls-23"
+       class="cls-25"
        transform="translate(212.38,81.02)"
        id="text33"><tspan
          x="0"
          y="0"
          id="tspan33">z</tspan></text>
     <text
-       class="cls-23"
+       class="cls-25"
        transform="translate(50.3,67.31)"
        id="text34"><tspan
          x="0"
@@ -521,7 +530,7 @@
     <g
        id="g36">
       <line
-         class="cls-24"
+         class="cls-26"
          x1="29.4"
          y1="32.869999"
          x2="4.1999998"
@@ -543,17 +552,17 @@
       </g>
     </g>
     <text
-       class="cls-23"
+       class="cls-25"
        transform="translate(0,39.07)"
        id="text36"><tspan
          x="0"
          y="0"
          id="tspan36">x</tspan></text>
     <text
-       class="cls-33"
+       class="cls-35"
        transform="translate(69.77,81.02)"
        id="text40"><tspan
-         class="cls-49"
+         class="cls-51"
          x="0"
          y="0"
          id="tspan37">T</tspan><tspan
@@ -561,16 +570,16 @@
          y="0"
          xml:space="preserve"
          id="tspan38"> = 5 kNm</tspan><tspan
-         class="cls-44"
+         class="cls-46"
          x="41.619999"
          y="0"
          id="tspan39">/</tspan><tspan
-         class="cls-29"
+         class="cls-31"
          x="44.830002"
          y="0"
          id="tspan40">m</tspan></text>
     <text
-       class="cls-28"
+       class="cls-30"
        transform="rotate(20,1.2385619,424.55191)"
        id="text41"><tspan
          x="0"
@@ -593,11 +602,11 @@
          y2="51.09"
          id="line42" />
       <polygon
-         class="cls-25"
+         class="cls-27"
          points="89.6,9.98 89.05,11.63 86.24,9.77 "
          id="polygon42" />
       <polygon
-         class="cls-25"
+         class="cls-27"
          points="209.07,50.08 208.52,51.73 211.88,51.94 "
          id="polygon43" />
     </g>
@@ -629,7 +638,7 @@
          d="m 131.18,69.84 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path46" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="130.14,46.15 129.92,49.05 135.44,48 "
          id="polygon46" />
     </g>
@@ -640,7 +649,7 @@
          d="m 113.26,63.89 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path47" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="112.22,40.2 112.01,43.1 117.52,42.04 "
          id="polygon47" />
     </g>
@@ -651,7 +660,7 @@
          d="m 59.51,46.46 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path48" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="58.47,22.77 58.25,25.67 63.77,24.62 "
          id="polygon48" />
     </g>
@@ -662,7 +671,7 @@
          d="m 41.59,40.15 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path49" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="40.55,16.46 40.34,19.35 45.85,18.3 "
          id="polygon49" />
     </g>
@@ -673,7 +682,7 @@
          d="m 149.1,76.04 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path50" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="148.05,52.35 147.84,55.25 153.35,54.2 "
          id="polygon50" />
     </g>
@@ -684,7 +693,7 @@
          d="m 167.01,82.02 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path51" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="165.97,58.33 165.76,61.23 171.27,60.18 "
          id="polygon51" />
     </g>
@@ -695,7 +704,7 @@
          d="m 77.43,52.46 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path52" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="76.38,28.77 76.17,31.67 81.68,30.62 "
          id="polygon52" />
     </g>
@@ -706,7 +715,7 @@
          d="m 95.34,58.12 c -14.52,0 -9.72,-20.47 -0.15,-22.33"
          id="path53" />
       <polygon
-         class="cls-36"
+         class="cls-38"
          points="94.3,34.43 94.09,37.32 99.6,36.27 "
          id="polygon53" />
     </g>
@@ -764,23 +773,23 @@
        y2="73.900002"
        id="line57" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="348.7,41.23 345.79,41.23 347.25,35.81 "
        id="polygon57" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="348.7,72.91 345.79,72.91 347.25,78.33 "
        id="polygon58" />
   </g>
   <text
-     class="cls-28"
+     class="cls-30"
      id="text59"
      x="350.79001"
      y="60.610001"><tspan
        x="350.79001"
        y="60.610001"
        id="tspan58">2</tspan><tspan
-       class="cls-45"
+       class="cls-47"
        x="357.37"
        y="60.610001"
        id="tspan59">r</tspan></text>
@@ -808,16 +817,16 @@
        y2="18.09"
        id="line61" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="292.43,16.64 292.43,19.54 287.01,18.09 "
        id="polygon61" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="324.11,16.64 324.11,19.54 329.53,18.09 "
        id="polygon62" />
   </g>
   <text
-     class="cls-26"
+     class="cls-28"
      id="text62"
      x="304.73001"
      y="14.55"><tspan
@@ -858,16 +867,16 @@
        y2="57.07"
        id="line65" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="272.98,61.43 273.84,63.59 269.39,64.12 "
        id="polygon65" />
     <path
-       class="cls-25"
+       class="cls-27"
        d="m 287.43,58.12 c 0.58,-0.23 0.86,-0.89 0.63,-1.47 -0.23,-0.58 -0.89,-0.86 -1.47,-0.63 -0.58,0.23 -0.86,0.89 -0.63,1.47 0.23,0.58 0.89,0.86 1.47,0.63 z"
        id="path65" />
   </g>
   <text
-     class="cls-27"
+     class="cls-29"
      id="text65"
      x="279.92001"
      y="67.699997"><tspan
@@ -884,7 +893,7 @@
        y2="31.379999"
        id="line66" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="316.81,30.39 313.91,30.39 315.36,35.81 "
        id="polygon66" />
   </g>
@@ -898,12 +907,12 @@
        y2="46.439999"
        id="line67" />
     <polygon
-       class="cls-25"
+       class="cls-27"
        points="316.81,41.23 313.91,41.23 315.36,35.81 "
        id="polygon67" />
   </g>
   <text
-     class="cls-28"
+     class="cls-30"
      id="text67"
      x="315.35999"
      y="57.07"><tspan
@@ -939,7 +948,7 @@
        id="polygon69" />
   </g>
   <text
-     class="cls-23"
+     class="cls-25"
      id="text69"
      x="244.49001"
      y="57.07"><tspan
@@ -947,7 +956,7 @@
        y="57.07"
        id="tspan69">x</tspan></text>
   <text
-     class="cls-23"
+     class="cls-25"
      id="text70"
      x="294.10001"
      y="96.040001"><tspan
@@ -959,86 +968,102 @@
      id="text93"
      x="245.12"
      y="110.22"><tspan
-       class="cls-42"
+       class="cls-41"
        id="tspan83"><tspan
          x="245.12"
          y="110.22"
          id="tspan71">Wing</tspan><tspan
-         class="cls-35"
+         class="cls-37"
          x="271.70999"
          y="110.22"
          id="tspan72">b</tspan><tspan
-         class="cls-39"
+         class="cls-42"
          x="278.54001"
          y="110.22"
          id="tspan73">o</tspan><tspan
          x="284.88"
          y="110.22"
          id="tspan74">x c</tspan><tspan
-         class="cls-30"
+         class="cls-32"
          x="299.82999"
          y="110.22"
          id="tspan75">r</tspan><tspan
-         class="cls-47"
+         class="cls-49"
          x="303.86002"
          y="110.22"
          id="tspan76">o</tspan><tspan
-         class="cls-34"
+         class="cls-36"
          x="310.35001"
          y="110.22"
          id="tspan77">ss-</tspan><tspan
-         class="cls-41"
+         class="cls-44"
          x="326"
          y="110.22"
          id="tspan78">s</tspan><tspan
          x="331.63"
          y="110.22"
          id="tspan79">e</tspan><tspan
-         class="cls-37"
+         class="cls-39"
          x="338.07999"
          y="110.22"
          id="tspan80">c</tspan><tspan
-         class="cls-31"
+         class="cls-33"
          x="344.13998"
          y="110.22"
          id="tspan81">t</tspan><tspan
-         class="cls-34"
+         class="cls-36"
          x="348.13"
          y="110.22"
          id="tspan82">ion</tspan></tspan><tspan
-       class="cls-46"
+       class="cls-48"
        id="tspan93"><tspan
-         class="cls-48"
+         class="cls-50"
          x="261"
          y="122.22"
          id="tspan84">(</tspan><tspan
-         class="cls-43"
+         class="cls-45"
          x="263.59"
          y="122.22"
          id="tspan85">c</tspan><tspan
-         class="cls-38"
+         class="cls-40"
          x="268.34"
          y="122.22"
          id="tspan86">on</tspan><tspan
-         class="cls-50"
+         class="cls-52"
          x="279.32001"
          y="122.22"
          id="tspan87">s</tspan><tspan
          x="284.01001"
          y="122.22"
          id="tspan88">ta</tspan><tspan
-         class="cls-40"
+         class="cls-43"
          x="292.51999"
          y="122.22"
          id="tspan89">n</tspan><tspan
          x="297.85001"
          y="122.22"
          id="tspan90">t thi</tspan><tspan
-         class="cls-32"
+         class="cls-34"
          x="315.19"
          y="122.22"
          id="tspan91">c</tspan><tspan
          x="320.23999"
          y="122.22"
          id="tspan92">kness)</tspan></tspan></text>
+  <text
+     class="cls-23"
+     id="text94"
+     x="49.610001"
+     y="14.55"><tspan
+       x="49.610001"
+       y="14.55"
+       id="tspan94">A</tspan></text>
+  <text
+     class="cls-24"
+     id="text95"
+     x="163"
+     y="92.5"><tspan
+       x="163"
+       y="92.5"
+       id="tspan95">B</tspan></text>
 </svg>
