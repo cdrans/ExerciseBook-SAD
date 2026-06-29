@@ -282,7 +282,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
 
 ```{figure} ./Figures/hw_torsion_6a.svg
-:alt: Thin-walled closed beam section with unifrom distributed torsion applied along its length.
+:alt: Thin-walled closed beam section with uniform distributed torsion applied along its length.
 :width: 80%
 :align: center
 ```
@@ -298,7 +298,7 @@ Calculate the angle of twist of the wing box ($\theta_B$) with respect to the fi
 
 $\theta_B/A} =  -2.71^\circ $
 
-$\left| {{\tau _{\max }}} \right| = 36.0MPa$
+$\left| {{\tau _{\max }}} \right| = 36.0~MPa$
 
 :::
 :::{tab-item} Intermediate Answers
@@ -310,6 +310,49 @@ $T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left{ L-z \right)$
 :::
 ::::
 ````
+
+## Exercise 6b
+
+
+````{exercise} 
+:label: hw_torsion_6b
+
+A design modification to the wing box from {numref}`hw_torsion_6a` results in a $0.2~m$ length of the upper skin being removed between points $C$ and $D$ as illustrated below.
+
+```{figure} ./Figures/hw_torsion_6b.svg
+:alt: Thin-walled beam section with uniform distributed torsion applied along its length. The section is closed from the root to point C and open from C to the tip.
+:width: 100%
+:align: center
+```
+Calculate the new angle of twist of the modified wing box ($\theta_B$) with respect to the fixed end $A$ **AND** the maximum **shear stress** in the modified wing box due to the uniform distributed torque.
+
+````
+
+````{solution} hw_torsion_6b
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+$\theta_B/A} =  -26.8^\circ $
+
+$\left| {{\tau _{\max }}} \right| = 210~MPa$
+
+:::
+:::{tab-item} Intermediate Answers
+
+$A_m = 0.014~m^2$
+
+$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left{ L-z \right)$
+
+$\theta_C/A} =  -2.70^\circ $
+
+$\theta_B/C} =  -24.07^\circ $
+
+:::
+::::
+````
+
+
 
 
 
