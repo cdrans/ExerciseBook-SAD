@@ -277,7 +277,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 
 
 ````{exercise} 
-:label: hw_torsion_6a
+:label: hw_torsion_6
 
 Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
 
@@ -291,12 +291,12 @@ Calculate the angle of twist of the wing box ($\theta_B$) with respect to the fi
 
 ````
 
-````{solution} hw_torsion_6a
+````{solution} hw_torsion_6
 :class: dropdown
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-$\theta_B/A} =  -2.71^\circ $
+$\theta_{B/A} =  -2.71^\circ $
 
 $\left| {{\tau _{\max }}} \right| = 36.0~MPa$
 
@@ -305,17 +305,17 @@ $\left| {{\tau _{\max }}} \right| = 36.0~MPa$
 
 $A_m = 0.014~m^2$
 
-$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left{ L-z \right)$
+$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left( L-z \right)$
 
 :::
 ::::
 ````
 
-## Exercise 6b
+## Exercise 7
 
 
 ````{exercise} 
-:label: hw_torsion_6b
+:label: hw_torsion_7
 
 A design modification to the wing box from {numref}`hw_torsion_6a` results in a $0.2~m$ length of the upper skin being removed between points $C$ and $D$ as illustrated below.
 
@@ -328,12 +328,12 @@ Calculate the new angle of twist of the modified wing box ($\theta_B$) with resp
 
 ````
 
-````{solution} hw_torsion_6b
+````{solution} hw_torsion_7
 :class: dropdown
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-$\theta_B/A} =  -26.8^\circ $
+$\theta_{B/A} =  -26.8^\circ $
 
 $\left| {{\tau _{\max }}} \right| = 210~MPa$
 
@@ -342,11 +342,11 @@ $\left| {{\tau _{\max }}} \right| = 210~MPa$
 
 $A_m = 0.014~m^2$
 
-$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left{ L-z \right)$
+$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left( L-z \right)$
 
-$\theta_C/A} =  -2.70^\circ $
+$\theta_{C/A} =  -2.70^\circ $
 
-$\theta_B/C} =  -24.07^\circ $
+$\theta_{B/C} =  -24.07^\circ $
 
 :::
 ::::
