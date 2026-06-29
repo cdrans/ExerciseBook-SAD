@@ -273,7 +273,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 ::::
 ````
 
-## Exercise 6a
+## Exercise 6
 
 
 ````{exercise} 
@@ -317,7 +317,7 @@ $T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left( L-z \right)$
 ````{exercise} 
 :label: hw_torsion_7
 
-A design modification to the wing box from {numref}`hw_torsion_6a` results in a $0.2~m$ length of the upper skin being removed between points $C$ and $D$ as illustrated below.
+A design modification to the wing box from {numref}`hw_torsion_6` results in a $0.2~m$ length of the upper skin being removed between points $C$ and $D$ as illustrated below.
 
 ```{figure} ./Figures/hw_torsion_6b.svg
 :alt: Thin-walled beam section with uniform distributed torsion applied along its length. The section is closed from the root to point C and open from C to the tip.
