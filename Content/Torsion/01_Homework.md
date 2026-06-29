@@ -273,6 +273,43 @@ From superposition: $T = 2T_{12} + T_{26}$
 ::::
 ````
 
+## Exercise 6a
+
+
+````{exercise} 
+:label: hw_torsion_6a
+
+Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
+
+```{figure} ./Figures/hw_torsion_6a.svg
+:alt: Thin-walled closed beam section with unifrom distributed torsion applied along its length.
+:width: 80%
+:align: center
+```
+
+Calculate the angle of twist of the wing box ($\theta_B$) with respect to the fixed end $A$ **AND** the maximum **shear stress** in the wing box due to the uniform distributed torque. 
+
+````
+
+````{solution} hw_torsion_6a
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+$\theta_B/A} =  -2.71^\circ $
+
+$\left| {{\tau _{\max }}} \right| = 36.0MPa$
+
+:::
+:::{tab-item} Intermediate Answers
+
+$A_m = 0.014~m^2$
+
+$T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left{ L-z \right)$
+
+:::
+::::
+````
 
 
 
