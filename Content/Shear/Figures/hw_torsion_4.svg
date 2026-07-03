@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 353.78 376.89"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6 {
+        stroke: #231f20;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #009444;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: .75px;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 24.9 4.98 4.98 4.98;
+      }
+
+      .cls-7 {
+        fill: #231f20;
+        font-family: AtkinsonHyperlegibleNext-RegularItalic, 'Atkinson Hyperlegible Next';
+        font-size: 14px;
+        font-style: italic;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #009444;
+      }
+
+      .cls-9 {
+        font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
+        font-size: 16px;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 4.98 4.98;
+      }
+
+      .cls-10 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <text
+     class="cls-7"
+     transform="translate(239 22.22)"
+     id="text1"><tspan
+       x="0"
+       y="0"
+       id="tspan1">1</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(153.91 22.22)"
+     id="text2"><tspan
+       x="0"
+       y="0"
+       id="tspan2">2</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(153.5 75.44)"
+     id="text3"><tspan
+       x="0"
+       y="0"
+       id="tspan3">3</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(63.47 79.53)"
+     id="text4"><tspan
+       x="0"
+       y="0"
+       id="tspan4">4</tspan></text>
+  <line
+     class="cls-3"
+     x1="247.81"
+     y1="26.44"
+     x2="293"
+     y2="26.44"
+     id="line4" />
+  <polyline
+     class="cls-1"
+     points="239 26.44 167 26.44 167 80.44 77 80.44 77 260.44 167 260.44 167 314.44 239 314.44"
+     id="polyline4" />
+  <g
+     id="g8">
+    <line
+       class="cls-5"
+       x1="14"
+       y1="170.44"
+       x2="26.5"
+       y2="170.44"
+       id="line5" />
+    <line
+       class="cls-6"
+       x1="31.48"
+       y1="170.44"
+       x2="38.95"
+       y2="170.44"
+       id="line6" />
+    <line
+       class="cls-4"
+       x1="41.44"
+       y1="170.44"
+       x2="278.01"
+       y2="170.44"
+       id="line7" />
+    <line
+       class="cls-5"
+       x1="280.5"
+       y1="170.44"
+       x2="293"
+       y2="170.44"
+       id="line8" />
+  </g>
+  <line
+     class="cls-3"
+     x1="185"
+     y1="80.44"
+     x2="293"
+     y2="80.44"
+     id="line9" />
+  <g
+     id="g11">
+    <line
+       class="cls-3"
+       x1="284"
+       y1="33.09"
+       x2="284"
+       y2="73.8"
+       id="line10" />
+    <polygon
+       class="cls-8"
+       points="281.82 34.58 284 26.44 286.18 34.58 281.82 34.58"
+       id="polygon10" />
+    <polygon
+       class="cls-8"
+       points="281.82 72.31 284 80.44 286.18 72.31 281.82 72.31"
+       id="polygon11" />
+  </g>
+  <g
+     id="g13">
+    <line
+       class="cls-3"
+       x1="284"
+       y1="87.09"
+       x2="284"
+       y2="163.8"
+       id="line11" />
+    <polygon
+       class="cls-8"
+       points="281.82 88.58 284 80.44 286.18 88.58 281.82 88.58"
+       id="polygon12" />
+    <polygon
+       class="cls-8"
+       points="281.82 162.31 284 170.44 286.18 162.31 281.82 162.31"
+       id="polygon13" />
+  </g>
+  <line
+     class="cls-3"
+     x1="247.81"
+     y1="314.44"
+     x2="293"
+     y2="314.44"
+     id="line13" />
+  <line
+     class="cls-3"
+     x1="185"
+     y1="260.44"
+     x2="293"
+     y2="260.44"
+     id="line14" />
+  <g
+     id="g16">
+    <line
+       class="cls-3"
+       x1="284"
+       y1="307.8"
+       x2="284"
+       y2="267.09"
+       id="line15" />
+    <polygon
+       class="cls-8"
+       points="286.18 306.31 284 314.44 281.82 306.31 286.18 306.31"
+       id="polygon15" />
+    <polygon
+       class="cls-8"
+       points="286.18 268.58 284 260.44 281.82 268.58 286.18 268.58"
+       id="polygon16" />
+  </g>
+  <g
+     id="g18">
+    <line
+       class="cls-3"
+       x1="284"
+       y1="253.8"
+       x2="284"
+       y2="177.09"
+       id="line16" />
+    <polygon
+       class="cls-8"
+       points="286.18 252.31 284 260.44 281.82 252.31 286.18 252.31"
+       id="polygon17" />
+    <polygon
+       class="cls-8"
+       points="286.18 178.58 284 170.44 281.82 178.58 286.18 178.58"
+       id="polygon18" />
+  </g>
+  <text
+     class="cls-9"
+     transform="translate(293 57.44)"
+     id="text18"><tspan
+       x="0"
+       y="0"
+       id="tspan18">18 mm</tspan></text>
+  <text
+     class="cls-9"
+     transform="translate(293 291.44)"
+     id="text19"><tspan
+       x="0"
+       y="0"
+       id="tspan19">18 mm</tspan></text>
+  <text
+     class="cls-9"
+     transform="translate(293 219.44)"
+     id="text20"><tspan
+       x="0"
+       y="0"
+       id="tspan20">30 mm</tspan></text>
+  <text
+     class="cls-9"
+     transform="translate(293 129.44)"
+     id="text21"><tspan
+       x="0"
+       y="0"
+       id="tspan21">30 mm</tspan></text>
+  <line
+     class="cls-3"
+     x1="77"
+     y1="269.44"
+     x2="77"
+     y2="359.44"
+     id="line21" />
+  <g
+     id="g23">
+    <line
+       class="cls-3"
+       x1="160.36"
+       y1="350.44"
+       x2="83.64"
+       y2="350.44"
+       id="line22" />
+    <polygon
+       class="cls-8"
+       points="158.87 348.27 167 350.44 158.87 352.62 158.87 348.27"
+       id="polygon22" />
+    <polygon
+       class="cls-8"
+       points="85.13 348.27 77 350.44 85.13 352.62 85.13 348.27"
+       id="polygon23" />
+  </g>
+  <line
+     class="cls-3"
+     x1="167"
+     y1="323.44"
+     x2="167"
+     y2="359.44"
+     id="line23" />
+  <g
+     id="g25">
+    <line
+       class="cls-3"
+       x1="232.36"
+       y1="350.44"
+       x2="173.64"
+       y2="350.44"
+       id="line24" />
+    <polygon
+       class="cls-8"
+       points="230.87 348.27 239 350.44 230.87 352.62 230.87 348.27"
+       id="polygon24" />
+    <polygon
+       class="cls-8"
+       points="175.13 348.27 167 350.44 175.13 352.62 175.13 348.27"
+       id="polygon25" />
+  </g>
+  <line
+     class="cls-3"
+     x1="239"
+     y1="323.44"
+     x2="239"
+     y2="359.44"
+     id="line25" />
+  <text
+     class="cls-9"
+     transform="translate(95 368.44)"
+     id="text25"><tspan
+       x="0"
+       y="0"
+       id="tspan25">30 mm</tspan></text>
+  <text
+     class="cls-9"
+     transform="translate(176 368.44)"
+     id="text27"><tspan
+       class="cls-10"
+       x="0"
+       y="0"
+       id="tspan26">2</tspan><tspan
+       x="8.29"
+       y="0"
+       id="tspan27">4 mm</tspan></text>
+  <g
+     id="g27">
+    <line
+       class="cls-2"
+       x1="68.66"
+       y1="116.44"
+       x2="60.67"
+       y2="116.44"
+       id="line27" />
+    <polygon
+       class="cls-8"
+       points="67.28 114.41 74.87 116.44 67.28 118.48 67.28 114.41"
+       id="polygon27" />
+  </g>
+  <g
+     id="g28">
+    <line
+       class="cls-2"
+       x1="85.48"
+       y1="116.44"
+       x2="93.33"
+       y2="116.44"
+       id="line28" />
+    <polygon
+       class="cls-8"
+       points="86.86 118.48 79.27 116.44 86.86 114.41 86.86 118.48"
+       id="polygon28" />
+  </g>
+  <text
+     class="cls-9"
+     transform="translate(48 120.63)"
+     id="text28"><tspan
+       x="0"
+       y="0"
+       id="tspan28">t</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(64.39 275.01)"
+     id="text29"><tspan
+       x="0"
+       y="0"
+       id="tspan29">5</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(152.04 275.17)"
+     id="text30"><tspan
+       x="0"
+       y="0"
+       id="tspan30">6</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(152.97 326.75)"
+     id="text31"><tspan
+       x="0"
+       y="0"
+       id="tspan31">7</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(239.9 326.75)"
+     id="text32"><tspan
+       x="0"
+       y="0"
+       id="tspan32">8</tspan></text>
+</svg>

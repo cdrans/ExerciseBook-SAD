@@ -1,5 +1,5 @@
 # Homework
-These are the recommended homework problems for the topic of Torsion. 
+These are the recommended homework problems for the topic of **Torsion**. 
 
 ```{warning} Remember
 
@@ -9,7 +9,6 @@ You are not limited to the use of a scientific calculator for homework problems.
 
 
 ## Exercise 1
-(18.1 modified)
 
 ````{exercise} 
 :label: hw_torsion_1
@@ -40,6 +39,7 @@ $\tau_{max} = 159~MPa$
 
 $\theta \left( z \right) = 2.816 \times {10^{ - 5}}\left[ {\frac{{rad}}{{mm}}} \right] \cdot z - 6.033 \times {10^{ - 9}}\left[ {\frac{{rad}}{{m{m^2}}}} \right] \cdot {z^2}$
 
+Click *Run* in the applet below to plot the angle of twist along the beam.
 ```{pyodide}
 import matplotlib.pyplot as plt
 import numpy as np
@@ -281,7 +281,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 
 Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
 
-```{figure} ./Figures/hw_torsion_6a.svg
+```{figure} ./Figures/hw_torsion_6.svg
 :alt: Thin-walled closed beam section with uniform distributed torsion applied along its length.
 :width: 80%
 :align: center
@@ -319,7 +319,7 @@ $T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left( L-z \right)$
 
 A design modification to the wing box from {numref}`hw_torsion_6` results in a $0.2~m$ length of the upper skin being removed between points $C$ and $D$ as illustrated below.
 
-```{figure} ./Figures/hw_torsion_6b.svg
+```{figure} ./Figures/hw_torsion_7.svg
 :alt: Thin-walled beam section with uniform distributed torsion applied along its length. The section is closed from the root to point C and open from C to the tip.
 :width: 100%
 :align: center
@@ -353,34 +353,5 @@ $\theta_{B/C} =  -24.07^\circ $
 ````
 
 
-
-
-
-
-## Exercise 99
-
-
-````{exercise} 
-:label: hw_torsion_99
-
-text
-
-````
-
-````{solution} hw_torsion_99
-:class: dropdown
-::::{tab-set}
-:::{tab-item} Final Answer
-
-text
-
-:::
-:::{tab-item} Intermediate Answers
-
-text
-
-:::
-::::
-````
 
 
