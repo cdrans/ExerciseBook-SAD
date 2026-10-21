@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 244.78 285.33"
+   version="1.1"
+   sodipodi:docname="hw_shear_5.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.8376618"
+     inkscape:cx="122.34012"
+     inkscape:cy="142.66499"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        stroke: #009444;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-6 {
+        stroke-width: .75px;
+      }
+
+      .cls-8 {
+        font-size: 13px;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
+      }
+
+      .cls-8, .cls-10, .cls-12, .cls-11 {
+        fill: #009444;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 75 7.5 7.5 7.5;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #231f20;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7 {
+        stroke-width: .5px;
+      }
+
+      .cls-9, .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        font-size: 18px;
+      }
+
+      .cls-9, .cls-13 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 80 6 6 6;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 7.5 7.5;
+      }
+    </style>
+  </defs>
+  <g
+     id="g2">
+    <path
+       class="cls-3"
+       d="M84.77,211.11c-17.92-17.92-29-42.67-29-70s11.08-52.09,29-70"
+       id="path1" />
+    <path
+       class="cls-3"
+       d="M84.77,71.11c-17.92,17.92-29,42.67-29,70s11.08,52.09,29,70"
+       id="path2" />
+  </g>
+  <line
+     class="cls-3"
+     x1="84.77"
+     y1="71.11"
+     x2="135.69"
+     y2="20.2"
+     id="line2" />
+  <line
+     class="cls-3"
+     x1="84.77"
+     y1="211.11"
+     x2="135.69"
+     y2="262.03"
+     id="line3" />
+  <path
+     class="cls-1"
+     d="M87.75,74.08l67.03,67.03-67.25,67.25"
+     id="path3" />
+  <line
+     class="cls-4"
+     x1="1.78"
+     y1="141.11"
+     x2="244.78"
+     y2="141.11"
+     id="line4" />
+  <g
+     id="g8">
+    <line
+       class="cls-5"
+       x1="154.78"
+       y1="51.11"
+       x2="154.78"
+       y2="81.11"
+       id="line5" />
+    <line
+       class="cls-7"
+       x1="154.78"
+       y1="88.61"
+       x2="154.78"
+       y2="99.86"
+       id="line6" />
+    <line
+       class="cls-2"
+       x1="154.78"
+       y1="103.61"
+       x2="154.78"
+       y2="197.36"
+       id="line7" />
+    <line
+       class="cls-5"
+       x1="154.78"
+       y1="201.11"
+       x2="154.78"
+       y2="231.11"
+       id="line8" />
+  </g>
+  <g
+     id="g9">
+    <path
+       class="cls-1"
+       d="M132.15,158.23c-3-3.97-4.84-8.55-5.49-13.25"
+       id="path8" />
+    <polygon
+       class="cls-12"
+       points="132.62 156.67 134.77 161.24 130.62 158.36 132.62 156.67"
+       id="polygon8" />
+    <polygon
+       class="cls-12"
+       points="128.09 145.75 126.38 141 125.49 145.97 128.09 145.75"
+       id="polygon9" />
+  </g>
+  <g
+     id="g11">
+    <path
+       class="cls-1"
+       d="M126.66,137.25c.66-4.71,2.49-9.28,5.49-13.25"
+       id="path9" />
+    <polygon
+       class="cls-12"
+       points="128.09 136.47 126.38 141.22 125.49 136.25 128.09 136.47"
+       id="polygon10" />
+    <polygon
+       class="cls-12"
+       points="132.62 125.55 134.77 120.98 130.62 123.86 132.62 125.55"
+       id="polygon11" />
+  </g>
+  <g
+     id="g12">
+    <line
+       class="cls-6"
+       x1="154.78"
+       y1="141.11"
+       x2="67.11"
+       y2="115.11"
+       id="line11" />
+    <polygon
+       class="cls-13"
+       points="69.16 113.44 60.74 113.22 67.92 117.62 69.16 113.44"
+       id="polygon12" />
+  </g>
+  <text
+     class="cls-8"
+     transform="translate(105.58 123.74)"
+     id="text12"><tspan
+       x="0"
+       y="0"
+       id="tspan12">45º</tspan></text>
+  <text
+     class="cls-8"
+     transform="translate(106.07 162.63)"
+     id="text13"><tspan
+       x="0"
+       y="0"
+       id="tspan13">45º</tspan></text>
+  <text
+     class="cls-9"
+     transform="translate(83.41 116.59)"
+     id="text14"><tspan
+       x="0"
+       y="0"
+       id="tspan14">r</tspan></text>
+  <g
+     id="g18">
+    <line
+       class="cls-1"
+       x1="131.79"
+       y1="265.92"
+       x2="119.07"
+       y2="278.65"
+       id="line14" />
+    <line
+       class="cls-1"
+       x1="80.88"
+       y1="215.01"
+       x2="68.15"
+       y2="227.73"
+       id="line15" />
+    <g
+       id="g17">
+      <line
+         class="cls-1"
+         x1="117.82"
+         y1="270.49"
+         x2="76.31"
+         y2="228.98"
+         id="line16" />
+      <polygon
+         class="cls-12"
+         points="118.31 267.9 122.52 275.19 115.23 270.98 118.31 267.9"
+         id="polygon16" />
+      <polygon
+         class="cls-12"
+         points="78.9 228.49 71.61 224.28 75.82 231.57 78.9 228.49"
+         id="polygon17" />
+    </g>
+  </g>
+  <g
+     id="g22">
+    <line
+       class="cls-1"
+       x1="80.55"
+       y1="66.88"
+       x2="67.82"
+       y2="54.15"
+       id="line18" />
+    <line
+       class="cls-1"
+       x1="131.46"
+       y1="15.97"
+       x2="118.73"
+       y2="3.24"
+       id="line19" />
+    <g
+       id="g21">
+      <line
+         class="cls-1"
+         x1="75.98"
+         y1="52.91"
+         x2="117.49"
+         y2="11.4"
+         id="line20" />
+      <polygon
+         class="cls-12"
+         points="78.57 53.4 71.28 57.61 75.49 50.32 78.57 53.4"
+         id="polygon20" />
+      <polygon
+         class="cls-12"
+         points="117.98 13.99 122.19 6.7 114.9 10.91 117.98 13.99"
+         id="polygon21" />
+    </g>
+  </g>
+  <text
+     class="cls-10"
+     transform="translate(87.53 30.15)"
+     id="text22"><tspan
+       x="0"
+       y="0"
+       id="tspan22">r</tspan></text>
+  <text
+     class="cls-10"
+     transform="translate(86.67 262.03)"
+     id="text23"><tspan
+       x="0"
+       y="0"
+       id="tspan23">r</tspan></text>
+  <g
+     id="g23">
+    <line
+       class="cls-1"
+       x1="56.68"
+       y1="184.65"
+       x2="46.64"
+       y2="189.96"
+       id="line23" />
+    <polygon
+       class="cls-12"
+       points="54.35 183.42 62.56 181.54 56.39 187.27 54.35 183.42"
+       id="polygon23" />
+  </g>
+  <g
+     id="g24">
+    <line
+       class="cls-1"
+       x1="71.58"
+       y1="176.77"
+       x2="81.62"
+       y2="171.46"
+       id="line24" />
+    <polygon
+       class="cls-12"
+       points="73.92 178 65.71 179.88 71.88 174.15 73.92 178"
+       id="polygon24" />
+  </g>
+  <text
+     class="cls-11"
+     transform="translate(38.64 197.9)"
+     id="text24"><tspan
+       x="0"
+       y="0"
+       id="tspan24">t</tspan></text>
+  <text
+     class="cls-9"
+     id="text14-4"
+     style="font-size:13.3333px;font-family:AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';letter-spacing:-0.02em;fill:#231f20"
+     x="155.22345"
+     y="151.79958"><tspan
+       x="155.22345"
+       y="151.79958"
+       id="tspan14-8"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic'">O</tspan></text>
+</svg>

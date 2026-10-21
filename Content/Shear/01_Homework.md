@@ -6,9 +6,9 @@ These are the recommended homework problems for the topic of **Transverse Shear*
 You are not limited to the use of a scientific calculator for homework problems. You may use a graphing calculator or computer to aid you in repetitive calculations or plotting functions for visualization.
 
 ```
+## Shear Centres
 
-
-## Exercise 1 (17.1)
+### Exercise 1 (17.1)
 
 ````{exercise} 
 :label: hw_shear_1
@@ -44,7 +44,7 @@ ${I_{xx}} = \left( {\frac{{64}}{3} + \frac{4}{3}{{\sin }^2}\theta } \right)t{a^3
 ::::
 ````
 
-## Exercise 2 (17.3)
+### Exercise 2 (17.3)
 
 ````{exercise} 
 :label: hw_shear_2
@@ -80,7 +80,7 @@ ${I_{xx}} = 3\pi t{r^3}$
 ````
 
 
-## Exercise 3 (17.5)
+### Exercise 3 (17.5)
 
 ````{exercise} 
 :label: hw_shear_3
@@ -114,7 +114,7 @@ ${I_{xx}} = \frac{{{h^2}}}{{12}}\left( {{t_3}h + 3\left( {{t_1} + {t_2}} \right)
 ````
 
 
-## Exercise 4 (17.7)
+### Exercise 4 (17.7)
 
 ````{exercise} 
 :label: hw_shear_4
@@ -123,7 +123,7 @@ Consider the non-symmetric thin-walled channel profile shown below. Derive the e
 
 ```{figure} ./Figures/hw_shear_4.svg
 :alt: Thin-walled symmetric channel profile with a constant thickness web and linearly variying thickness flanges. The web has a height $h$ and thickness $t_3$ while the flanges have a length $a$ and vary in thickness from $t_1$ at their free ends to $t_2$ at their intersection with the web.
-:width: 60%
+:width: 40%
 :align: center
 ```
 ````
@@ -142,7 +142,7 @@ $\eta  = \frac{{46}}{{97}}a$
 :::
 :::{tab-item} Intermediate Answers
 
-Relevant Section Properties for coordinate frame $x$ posittive to the left and $y$ positive down:
+Relevant Section Properties for coordinate frame $x$ positive to the left and $y$ positive down:
 
 ${I_{xx}} = \frac{{16}}{3}{a^3}t$
 
@@ -153,12 +153,97 @@ ${I_{xy}} =  - {a^3}t$
 ::::
 ````
 
+### Exercise 5 (17.11)
 
 
+````{exercise} 
+:label: hw_torsion_5
+
+Consider the symmetric thin-walled channel profile shown below. Derive the location of the shear centre of the section. Make sure to define clear references for its position.
+
+```{figure} ./Figures/hw_shear_5.svg
+:alt: Thin-walled symmetric open quarter-circle profile with tangent linear extensions of length equal to the radius of the quarter-circle region. The profile has a constant thickness of t.
+:width: 40%
+:align: center
+```
+
+````
+
+````{solution} hw_torsion_5
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+The shear centre is located $1.2r$ to the left of point $O$ along the horizontal reference passing through point $O$.
+
+:::
+:::{tab-item} Intermediate Answers
+
+Relevant Section Properties for coordinate frame $x$ positive to the left and $y$ positive down:
+
+${I_{xx}} = 2.32t{r^3}$
+
+:::
+::::
+````
+
+## Shear Flow in Open Sections
+
+You effictively already practice this when calculating shear centre locations and when analyzing closed sections and make the cut to analyze them as open sections first.
+
+## Shear Flow in Closed Sections
+
+### Exercise 6 (17.15)
 
 
+````{exercise} 
+:label: hw_torsion_6
 
-## Exercise 99
+Consider the closed thin-walled quarter-circle cross-section with constant thickness $t$ as shown below. Calculate the shear flow distribution around the section for a vertical internal shear force $V$ that is tangential to the curved segment of the section.
+
+```{figure} ./Figures/hw_shear_6.svg
+:alt: Thin-walled symmetric closed quarter-circle profile with a constant thickness of t. The profile is subjected to a shear load V perpendicular to the line of symmetry and tangent to the quarter circle arc.
+:width: 40%
+:align: center
+```
+````
+
+````{solution} hw_torsion_6
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+Using the following references and assumed shear flow directions:
+```{figure} ./Figures/hw_shear_6_key.svg
+:alt: Question profile with reference s directions and assumed shear flow directions established.
+:width: 40%
+:align: center
+```
+The shear flow distributions relative to the above references and assumed directions are:
+
+${q_{O1}\left( \theta \right)} = \frac{V}{r}\left( {1.61\cos \theta  - 0.80} \right)$
+
+${q_{12}\left( s \right)} = \frac{V}{{{r^3}}}\left( {0.57{s^2} - 1.14rs + 0.33{r^2}} \right)$
+
+${q_{32}\left( {s'} \right)} = -{q_{12}\left( {s'} \right)}$
+
+${q_{3O}\left( \theta \right)} = \frac{V}{r}\left( {1.61\cos \theta  - 0.80} \right)$
+
+Please note that since $\theta$ is measured counterclockwise from the $x$-axis in our reference setup, then $\theta$ is negative along segment $3O$.
+
+:::
+:::{tab-item} Intermediate Answers
+
+Relevant Section Properties for coordinate frame $x$ positive to the left and $y$ positive down:
+
+${I_{xx}} = 0.62t{r^3}$
+
+:::
+::::
+````
+
+
+### Exercise 99
 
 
 ````{exercise} 
@@ -183,5 +268,3 @@ text
 :::
 ::::
 ````
-
-
