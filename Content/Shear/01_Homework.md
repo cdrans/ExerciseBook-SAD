@@ -265,7 +265,7 @@ Consider the closed thin-walled hexagonal cross-section with constant thickness 
 Using the following references and assumed shear flow directions:
 ```{figure} ./Figures/hw_shear_7_key.svg
 :alt: Question profile with reference s directions and assumed shear flow directions established.
-:width: 40%
+:width: 50%
 :align: center
 ```
 The shear flow at each vertex is given by (assumed positive direction is counterclockwise):
@@ -302,27 +302,51 @@ The relevant section property needed to solve this problem is: ${I_{xx}} = \frac
 ::::
 ````
 
-### Exercise 99
+### Exercise 8
 
 
 ````{exercise} 
-:label: hw_torsion_99
+:label: hw_torsion_8
 
-text
+Consider the closed thin-walled symmetric box firger cross-section $ABCDEO$ shown below. The section has a variable thickness with segment $BCD$ having a thickness of $8~mm$, segments $DE$ and $AB$ having a thickness of 10~mm$, and segment $EOA$ having a thickness of $12~mm$. Calculate the shear flow distributions and maximum shear stress in the section for an internal vertical shear force of $500~kN$ acting through along the line of symmetry of the cross-section.
+
+```{figure} ./Figures/hw_shear_7.svg
+:alt: Thin-walled symmetric closed hexagonal profile with a constant thickness of t. The profile is subjected to a vertical shear load V aligned with the right vertical web.
+:width: 50%
+:align: center
+```
 
 ````
 
-````{solution} hw_torsion_99
+````{solution} hw_torsion_8
 :class: dropdown
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-text
+Using the following references and assumed shear flow directions:
+```{figure} ./Figures/hw_shear_8_key.svg
+:alt: Question profile with reference s directions and assumed shear flow directions established.
+:width: 50%
+:align: center
+```
+The shear flow distribution is described by:
+
+${q_{OA}} = \left( {0.25\frac{N}{{m{m^2}}}} \right){s_1}$
+
+${q_{AB}} = \left( {0.21\frac{N}{{m{m^2}}}} \right){s_2} - \left( {2.14 \times {{10}^{ - 4}}\frac{N}{{m{m^3}}}} \right)s_2^2 + 250\frac{N}{{mm}}$
+
+${q_{BC}} = \left( { - 0.17\frac{N}{{m{m^2}}}} \right){s_3} + 246\frac{N}{{mm}}$
+
+The shear flows are symmetric across the line of symmetry.
+
+$\tau_{max} = 30.2~MPa$
 
 :::
 :::{tab-item} Intermediate Answers
 
-text
+Relevant section properties: $I_{xx} = 101.25 \times 10^8~mm^4$
+
+The location of the maximum shear stress will correspond to the location of the N.A. for the internal moment that will develop as a result of the vertical shear force.
 
 :::
 ::::

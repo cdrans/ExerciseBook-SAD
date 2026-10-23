@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 303.56 181"
+   sodipodi:docname="hw_shear_8.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.9366188"
+     inkscape:cx="151.78"
+     inkscape:cy="90.559949"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        stroke-dasharray: 5.19 5.19;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        fill: none;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st6 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3, .st4, .st5, .st6 {
+        stroke: #231f20;
+      }
+
+      .st0, .st3, .st6 {
+        stroke-width: .5px;
+      }
+
+      .st1 {
+        stroke: #009444;
+        stroke-width: .75px;
+      }
+
+      .st7, .st8 {
+        font-size: 10px;
+      }
+
+      .st7, .st8, .st9 {
+        font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
+      }
+
+      .st7, .st10, .st9 {
+        fill: #1c75bc;
+      }
+
+      .st2 {
+        stroke: #1c75bc;
+        stroke-width: 3px;
+      }
+
+      .st8, .st11 {
+        fill: #009444;
+      }
+
+      .st12 {
+        letter-spacing: 0em;
+      }
+
+      .st3 {
+        stroke-dasharray: 25.93 5.19 5.19 5.19;
+      }
+
+      .st4 {
+        stroke-width: 2.4px;
+      }
+
+      .st5 {
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .st13 {
+        letter-spacing: -.1em;
+      }
+
+      .st14 {
+        letter-spacing: -.1em;
+      }
+
+      .st9 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g
+     id="g1">
+    <line
+       class="st1"
+       x1="217.73"
+       y1="73.75"
+       x2="217.76"
+       y2="83.5"
+       id="line1" />
+    <polygon
+       class="st11"
+       points="216.42 74.65 217.72 69.76 219.04 74.64 216.42 74.65"
+       id="polygon1" />
+  </g>
+  <g
+     id="g2">
+    <line
+       class="st1"
+       x1="217.7"
+       y1="64.27"
+       x2="217.67"
+       y2="54.53"
+       id="line2" />
+    <polygon
+       class="st11"
+       points="219.01 63.38 217.71 68.26 216.39 63.39 219.01 63.38"
+       id="polygon2" />
+  </g>
+  <g
+     id="g3">
+    <line
+       class="st1"
+       x1="264.05"
+       y1="101.46"
+       x2="271.55"
+       y2="107.68"
+       id="line3" />
+    <polygon
+       class="st11"
+       points="263.9 103.03 260.98 98.91 265.57 101.02 263.9 103.03"
+       id="polygon3" />
+  </g>
+  <g
+     id="g4">
+    <line
+       class="st1"
+       x1="256.76"
+       y1="95.41"
+       x2="249.25"
+       y2="89.19"
+       id="line4" />
+    <polygon
+       class="st11"
+       points="256.9 93.83 259.82 97.95 255.23 95.85 256.9 93.83"
+       id="polygon4" />
+  </g>
+  <g
+     id="g6">
+    <path
+       class="st1"
+       d="M98.01,135.77c-1.45-3.02-4.54-5.11-8.12-5.11h0c-.23,0-.47,0-.69.03"
+       id="path4" />
+    <polygon
+       class="st11"
+       points="98.97 134.62 98.89 139.67 96.43 135.25 98.97 134.62"
+       id="polygon5" />
+    <polygon
+       class="st11"
+       points="89.73 129.29 85.39 131.87 90.44 131.81 89.73 129.29"
+       id="polygon6" />
+  </g>
+  <g
+     id="g7">
+    <line
+       class="st2"
+       x1="161.89"
+       y1="16.32"
+       x2="161.89"
+       y2="62.3"
+       id="line6" />
+    <polygon
+       class="st10"
+       points="157.53 19.29 161.89 3.03 166.25 19.29 157.53 19.29"
+       id="polygon7" />
+  </g>
+  <text
+     class="st9"
+     transform="translate(171.06,17.78)"
+     id="text7"><tspan
+       x="0"
+       y="0"
+       id="tspan7">500 kN</tspan></text>
+  <g
+     id="g10">
+    <line
+       class="st6"
+       x1="161.89"
+       y1="32.67"
+       x2="161.89"
+       y2="47.67"
+       id="line7" />
+    <line
+       class="st0"
+       x1="161.89"
+       y1="52.85"
+       x2="161.89"
+       y2="60.63"
+       id="line8" />
+    <line
+       class="st3"
+       x1="161.89"
+       y1="63.22"
+       x2="161.89"
+       y2="143.59"
+       id="line9" />
+    <line
+       class="st6"
+       x1="161.89"
+       y1="146.19"
+       x2="161.89"
+       y2="161.19"
+       id="line10" />
+  </g>
+  <polygon
+     class="st5"
+     points="44.89 68.67 278.89 68.67 233.89 140.67 89.89 140.67 84.26 131.67 44.89 68.67"
+     id="polygon10" />
+  <text
+     class="st8"
+     transform="translate(95.7 130.67)"
+     id="text10"><tspan
+       x="0"
+       y="0"
+       id="tspan10">120º</tspan></text>
+  <g
+     id="g12">
+    <path
+       class="st1"
+       d="M225.3,135.77c1.45-3.02,4.54-5.11,8.12-5.11.23,0,.47,0,.69.03"
+       id="path10" />
+    <polygon
+       class="st11"
+       points="226.87 135.25 224.42 139.66 224.34 134.61 226.87 135.25"
+       id="polygon11" />
+    <polygon
+       class="st11"
+       points="232.87 131.81 237.92 131.87 233.57 129.29 232.87 131.81"
+       id="polygon12" />
+  </g>
+  <text
+     class="st8"
+     transform="translate(211.5 130.67)"
+     id="text12"><tspan
+       x="0"
+       y="0"
+       id="tspan12">120º</tspan></text>
+  <g
+     id="g13">
+    <line
+       class="st1"
+       x1="59.73"
+       y1="100.98"
+       x2="52.23"
+       y2="107.2"
+       id="line12" />
+    <polygon
+       class="st11"
+       points="58.21 100.54 62.8 98.43 59.88 102.55 58.21 100.54"
+       id="polygon13" />
+  </g>
+  <g
+     id="g14">
+    <line
+       class="st1"
+       x1="67.02"
+       y1="94.93"
+       x2="74.52"
+       y2="88.71"
+       id="line13" />
+    <polygon
+       class="st11"
+       points="68.54 95.37 63.95 97.47 66.87 93.35 68.54 95.37"
+       id="polygon14" />
+  </g>
+  <g
+     id="g15">
+    <line
+       class="st1"
+       x1="137.35"
+       y1="145.7"
+       x2="137.38"
+       y2="155.45"
+       id="line14" />
+    <polygon
+       class="st11"
+       points="136.04 146.6 137.34 141.71 138.66 146.59 136.04 146.6"
+       id="polygon15" />
+  </g>
+  <g
+     id="g16">
+    <line
+       class="st1"
+       x1="137.32"
+       y1="136.22"
+       x2="137.29"
+       y2="126.48"
+       id="line15" />
+    <polygon
+       class="st11"
+       points="138.62 135.33 137.33 140.21 136.01 135.34 138.62 135.33"
+       id="polygon16" />
+  </g>
+  <line
+     class="st4"
+     x1="233.89"
+     y1="140.67"
+     x2="89.89"
+     y2="140.67"
+     id="line16" />
+  <text
+     class="st8"
+     transform="translate(74.52 88.71)"
+     id="text18"><tspan
+       x="0"
+       y="0"
+       id="tspan16">10</tspan><tspan
+       class="st13"
+       x="10.55"
+       y="0"
+       id="tspan17" /><tspan
+       x="12.35"
+       y="0"
+       id="tspan18">mm</tspan></text>
+  <text
+     class="st8"
+     transform="translate(131.47 123.79)"
+     id="text21"><tspan
+       x="0"
+       y="0"
+       id="tspan19">12</tspan><tspan
+       class="st14"
+       x="9.55"
+       y="0"
+       id="tspan20" /><tspan
+       class="st12"
+       x="11.35"
+       y="0"
+       id="tspan21">mm</tspan></text>
+  <text
+     class="st8"
+     transform="translate(271.9 116.99)"
+     id="text24"><tspan
+       x="0"
+       y="0"
+       id="tspan22">10</tspan><tspan
+       class="st13"
+       x="10.55"
+       y="0"
+       id="tspan23" /><tspan
+       x="12.35"
+       y="0"
+       id="tspan24">mm</tspan></text>
+  <text
+     class="st8"
+     transform="translate(211.85 51.84)"
+     id="text27"><tspan
+       x="0"
+       y="0"
+       id="tspan25">8.0</tspan><tspan
+       class="st14"
+       x="14.73"
+       y="0"
+       id="tspan26" /><tspan
+       x="16.53"
+       y="0"
+       id="tspan27">mm</tspan></text>
+  <text
+     class="st7"
+     transform="translate(152.07 151.13)"
+     id="text28"><tspan
+       x="0"
+       y="0"
+       id="tspan28">O</tspan></text>
+  <text
+     class="st7"
+     transform="translate(233.89 151.13)"
+     id="text29"><tspan
+       x="0"
+       y="0"
+       id="tspan29">A</tspan></text>
+  <text
+     class="st7"
+     transform="translate(283.21 71.59)"
+     id="text30"><tspan
+       x="0"
+       y="0"
+       id="tspan30">B</tspan></text>
+  <text
+     class="st7"
+     transform="translate(165.54 64.91)"
+     id="text31"><tspan
+       x="0"
+       y="0"
+       id="tspan31">C</tspan></text>
+  <text
+     class="st7"
+     transform="translate(34.11 71.59)"
+     id="text32"><tspan
+       x="0"
+       y="0"
+       id="tspan32">D</tspan></text>
+  <text
+     class="st7"
+     transform="translate(82.58 151.13)"
+     id="text33"><tspan
+       x="0"
+       y="0"
+       id="tspan33">E</tspan></text>
+  <line
+     class="st1"
+     x1="32.13"
+     y1="73.52"
+     x2="3.13"
+     y2="90.26"
+     id="line33" />
+  <line
+     class="st1"
+     x1="76.91"
+     y1="151.07"
+     x2="47.91"
+     y2="167.81"
+     id="line34" />
+  <g
+     id="g35">
+    <line
+       class="st1"
+       x1="23.8"
+       y1="119.78"
+       x2="7.96"
+       y2="92.34"
+       id="line35" />
+    <polygon
+       class="st11"
+       points="9.54 92.46 5.97 88.89 7.28 93.77 9.54 92.46"
+       id="polygon35" />
+  </g>
+  <text
+     class="st8"
+     transform="translate(19.26 130.66)"
+     id="text37"><tspan
+       x="0"
+       y="0"
+       id="tspan35">1.0</tspan><tspan
+       class="st14"
+       x="12.65"
+       y="0"
+       id="tspan36" /><tspan
+       class="st12"
+       x="14.45"
+       y="0"
+       id="tspan37">m</tspan></text>
+  <g
+     id="g37">
+    <line
+       class="st1"
+       x1="48.44"
+       y1="162.44"
+       x2="31.98"
+       y2="133.93"
+       id="line37" />
+    <polygon
+       class="st11"
+       points="49.12 161.02 50.43 165.9 46.86 162.33 49.12 161.02"
+       id="polygon37" />
+  </g>
+  <line
+     class="st1"
+     x1="89.89"
+     y1="153.78"
+     x2="89.89"
+     y2="175.41"
+     id="line38" />
+  <line
+     class="st1"
+     x1="233.89"
+     y1="153.78"
+     x2="233.89"
+     y2="175.41"
+     id="line39" />
+  <g
+     id="g40">
+    <line
+       class="st1"
+       x1="147.11"
+       y1="172.44"
+       x2="93.88"
+       y2="172.44"
+       id="line40" />
+    <polygon
+       class="st11"
+       points="94.77 171.14 89.89 172.44 94.77 173.75 94.77 171.14"
+       id="polygon40" />
+  </g>
+  <g
+     id="g41">
+    <line
+       class="st1"
+       x1="229.9"
+       y1="172.44"
+       x2="181.35"
+       y2="172.44"
+       id="line41" />
+    <polygon
+       class="st11"
+       points="229.01 171.14 233.89 172.44 229.01 173.75 229.01 171.14"
+       id="polygon41" />
+  </g>
+  <text
+     class="st8"
+     transform="translate(152.51 175.53)"
+     id="text43"><tspan
+       x="0"
+       y="0"
+       id="tspan41">2.0</tspan><tspan
+       class="st13"
+       x="14.06"
+       y="0"
+       id="tspan42" /><tspan
+       x="15.86"
+       y="0"
+       id="tspan43">m</tspan></text>
+</svg>
