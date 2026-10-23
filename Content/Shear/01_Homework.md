@@ -302,7 +302,7 @@ The relevant section property needed to solve this problem is: ${I_{xx}} = \frac
 ::::
 ````
 
-### Exercise 8
+### Exercise 8 (17.18)
 
 
 ````{exercise} 
