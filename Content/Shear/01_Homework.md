@@ -242,6 +242,65 @@ ${I_{xx}} = 0.62t{r^3}$
 ::::
 ````
 
+### Exercise 7 (17.17)
+
+
+````{exercise} 
+:label: hw_torsion_7
+
+Consider the closed thin-walled hexagonal cross-section with constant thickness $t$ as shown below. All sides of the hexagon have an equal length $a$. Calculate the shear flow at points 1 through 8 for a vertical internal shear force $V$ that is aligned with the rightmost vertical web of the section.
+
+```{figure} ./Figures/hw_shear_7.svg
+:alt: Thin-walled symmetric closed hexagonal profile with a constant thickness of t. The profile is subjected to a vertical shear load V aligned with the right vertical web.
+:width: 50%
+:align: center
+```
+````
+
+````{solution} hw_torsion_7
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+Using the following references and assumed shear flow directions:
+```{figure} ./Figures/hw_shear_7_key.svg
+:alt: Question profile with reference s directions and assumed shear flow directions established.
+:width: 40%
+:align: center
+```
+The shear flow at each vertex is given by (assumed positive direction is counterclockwise):
+
+${q_1} =  - \frac{{0.52V}}{a}$
+
+${q_2} = {q_8} =  - \frac{{0.47V}}{a}$
+
+${q_3} = {q_7} =  - \frac{{0.17V}}{a}$
+
+${q_4} = {q_6} =  \frac{{0.13V}}{a}$
+
+${q_5} =  \frac{{0.18V}}{a}$
+
+
+
+:::
+:::{tab-item} Intermediate Answers
+
+The relevant section property needed to solve this problem is: ${I_{xx}} = \frac{5}{2}{a^3}t$
+
+:::
+
+:::{tab-item} Recommended Approach
+```{figure} ./Figures/hw_shear_7_approach.png
+:alt: Illustration of how to break up homework problem into a super-position of a torsion and symmetric transverse shear problem.
+:width: 100%
+:align: center
+```
+
+
+:::
+
+::::
+````
 
 ### Exercise 99
 
