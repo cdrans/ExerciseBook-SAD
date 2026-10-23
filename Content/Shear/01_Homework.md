@@ -308,10 +308,10 @@ The relevant section property needed to solve this problem is: ${I_{xx}} = \frac
 ````{exercise} 
 :label: hw_torsion_8
 
-Consider the closed thin-walled symmetric box firger cross-section $ABCDEO$ shown below. The section has a variable thickness with segment $BCD$ having a thickness of $8~mm$, segments $DE$ and $AB$ having a thickness of 10~mm$, and segment $EOA$ having a thickness of $12~mm$. Calculate the shear flow distributions and maximum shear stress in the section for an internal vertical shear force of $500~kN$ acting through along the line of symmetry of the cross-section.
+Consider the closed thin-walled symmetric box girder cross-section $ABCDEO$ shown below. The section has a variable thickness with segment $BCD$ having a thickness of $8~mm$, segments $DE$ and $AB$ having a thickness of $10~mm$, and segment $EOA$ having a thickness of $12~mm$. Calculate the shear flow distributions and maximum shear stress in the section for an internal vertical shear force of $500~kN$ acting through along the line of symmetry of the cross-section.
 
-```{figure} ./Figures/hw_shear_7.svg
-:alt: Thin-walled symmetric closed hexagonal profile with a constant thickness of t. The profile is subjected to a vertical shear load V aligned with the right vertical web.
+```{figure} ./Figures/hw_shear_8.svg
+:alt: Thin-walled symmetric box girder profile ABCDEO. The profile is subjected to a vertical shear load of 500 kN acting through its shear centre.
 :width: 50%
 :align: center
 ```
