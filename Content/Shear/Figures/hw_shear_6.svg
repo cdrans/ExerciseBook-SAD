@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 211.67 225.67"
+   sodipodi:docname="hw_shear_6.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.8522179"
+     inkscape:cx="105.82789"
+     inkscape:cy="112.835"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0, .st1, .st2, .st3 {
+        font-size: 13px;
+      }
+
+      .st0, .st1, .st4, .st5, .st6, .st7 {
+        font-family: AtkinsonHyperlegibleNext-Regular, 'Atkinson Hyperlegible Next';
+      }
+
+      .st0, .st2, .st4, .st8 {
+        fill: #1c75bc;
+      }
+
+      .st9 {
+        stroke: #009444;
+      }
+
+      .st9, .st10, .st11, .st12, .st13, .st14 {
+        fill: none;
+      }
+
+      .st9, .st10, .st12, .st13, .st14 {
+        stroke-miterlimit: 10;
+      }
+
+      .st9, .st13 {
+        stroke-width: .75px;
+      }
+
+      .st1, .st3, .st15, .st5, .st6 {
+        fill: #009444;
+      }
+
+      .st2 {
+        font-family: AtkinsonHyperlegibleNext-RegularItalic, 'Atkinson Hyperlegible Next';
+      }
+
+      .st2, .st16, .st3 {
+        font-style: italic;
+      }
+
+      .st17, .st16, .st7 {
+        fill: #231f20;
+      }
+
+      .st10 {
+        stroke: #1c75bc;
+        stroke-width: 3px;
+      }
+
+      .st18 {
+        fill: #fff;
+      }
+
+      .st16, .st3 {
+        font-family: TimesNewRomanPS-ItalicMT, 'Times New Roman';
+      }
+
+      .st16, .st5 {
+        font-size: 14px;
+      }
+
+      .st4, .st6, .st7 {
+        font-size: 18px;
+      }
+
+      .st11 {
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .st11, .st12, .st13, .st14 {
+        stroke: #231f20;
+      }
+
+      .st12, .st14 {
+        stroke-width: .5px;
+      }
+
+      .st14 {
+        stroke-dasharray: 40 6 6 6;
+      }
+    </style>
+  </defs>
+  <g
+     id="g1">
+    <line
+       class="st13"
+       x1="174"
+       y1="113.33"
+       x2="78.67"
+       y2="139.33"
+       id="line1" />
+    <polygon
+       class="st17"
+       points="79.53 136.84 72.26 141.08 80.67 141.04 79.53 136.84"
+       id="polygon1" />
+  </g>
+  <line
+     class="st14"
+     x1="30"
+     y1="113.33"
+     x2="205.5"
+     y2="113.33"
+     id="line2" />
+  <g
+     id="g3">
+    <path
+       class="st9"
+       d="M152.77,130.57c-3-3.97-4.84-8.55-5.49-13.25"
+       id="path2" />
+    <polygon
+       class="st15"
+       points="153.24 129 155.39 133.57 151.24 130.69 153.24 129"
+       id="polygon2" />
+    <polygon
+       class="st15"
+       points="148.71 118.09 147 113.33 146.1 118.3 148.71 118.09"
+       id="polygon3" />
+  </g>
+  <g
+     id="g5">
+    <path
+       class="st9"
+       d="M147.28,109.36c.66-4.71,2.49-9.28,5.49-13.25"
+       id="path3" />
+    <polygon
+       class="st15"
+       points="148.71 108.58 147 113.33 146.1 108.36 148.71 108.58"
+       id="polygon4" />
+    <polygon
+       class="st15"
+       points="153.24 97.66 155.39 93.09 151.24 95.97 153.24 97.66"
+       id="polygon5" />
+  </g>
+  <text
+     class="st1"
+     transform="translate(126.17 98.18)"
+     id="text5"><tspan
+       x="0"
+       y="0"
+       id="tspan5">45º</tspan></text>
+  <text
+     class="st1"
+     transform="translate(127.15 139.33)"
+     id="text6"><tspan
+       x="0"
+       y="0"
+       id="tspan6">45º</tspan></text>
+  <text
+     class="st7"
+     id="text7"
+     x="91.870003"
+     y="148.35313"><tspan
+       x="91.870003"
+       y="148.35313"
+       id="tspan7">r</tspan></text>
+  <path
+     class="st11"
+     d="M99.82,39.15c-18.99,18.99-30.73,45.21-30.73,74.18s11.74,55.2,30.73,74.18l74.18-74.18L99.82,39.15Z"
+     id="path7" />
+  <g
+     id="g7">
+    <line
+       class="st9"
+       x1="76.3"
+       y1="169.34"
+       x2="66.26"
+       y2="174.65"
+       id="line7" />
+    <polygon
+       class="st15"
+       points="73.97 168.11 82.17 166.24 76 171.96 73.97 168.11"
+       id="polygon7" />
+  </g>
+  <g
+     id="g8">
+    <line
+       class="st9"
+       x1="89.79"
+       y1="162.21"
+       x2="99.83"
+       y2="156.9"
+       id="line8" />
+    <polygon
+       class="st15"
+       points="92.12 163.44 83.91 165.32 90.08 159.59 92.12 163.44"
+       id="polygon8" />
+  </g>
+  <text
+     class="st6"
+     transform="translate(56.84 183.34)"
+     id="text8"><tspan
+       x="0"
+       y="0"
+       id="tspan8">t</tspan></text>
+  <text
+     class="st0"
+     transform="translate(97.94 203.33)"
+     id="text9"><tspan
+       x="0"
+       y="0"
+       id="tspan9">1</tspan></text>
+  <text
+     class="st0"
+     transform="translate(176.15 109.18)"
+     id="text10"><tspan
+       x="0"
+       y="0"
+       id="tspan10">2</tspan></text>
+  <text
+     class="st0"
+     transform="translate(99.11 33.58)"
+     id="text11"><tspan
+       x="0"
+       y="0"
+       id="tspan11">3</tspan></text>
+  <g
+     id="g12">
+    <path
+       class="st9"
+       d="M99.16,117.97c.17,3.79.83,7.56,2,11.22"
+       id="path11" />
+    <polygon
+       class="st15"
+       points="97.88 118.87 99.17 113.99 100.49 118.86 97.88 118.87"
+       id="polygon11" />
+    <polygon
+       class="st15"
+       points="99.65 128.79 102.55 132.92 102.11 127.89 99.65 128.79"
+       id="polygon12" />
+  </g>
+  <text
+     class="st3"
+     transform="translate(89.45 129.74)"
+     id="text12"><tspan
+       x="0"
+       y="0"
+       id="tspan12">θ</tspan></text>
+  <text
+     class="st2"
+     transform="translate(57.98 112.19)"
+     id="text13"><tspan
+       x="0"
+       y="0"
+       id="tspan13">O</tspan></text>
+  <g
+     id="g13">
+    <line
+       class="st10"
+       x1="69.09"
+       y1="69.32"
+       x2="69.09"
+       y2="23.33"
+       id="line13" />
+    <polygon
+       class="st8"
+       points="73.45 66.35 69.09 82.61 64.73 66.35 73.45 66.35"
+       id="polygon13" />
+  </g>
+  <text
+     class="st4"
+     transform="translate(63.86 17.33)"
+     id="text14"><tspan
+       x="0"
+       y="0"
+       id="tspan14">V</tspan></text>
+  <g
+     id="g14">
+    <line
+       class="st12"
+       x1="111"
+       y1="113.33"
+       x2="24.53"
+       y2="113.33"
+       id="line14" />
+    <polygon
+       class="st17"
+       points="21 113.33 25.97 111.3 24.79 113.33 25.97 115.37 21 113.33"
+       id="polygon14" />
+  </g>
+  <g
+     id="g17">
+    <line
+       class="st18"
+       x1="111"
+       y1="113.33"
+       x2="111"
+       y2="203.33"
+       id="line15" />
+    <g
+       id="g16">
+      <line
+         class="st12"
+         x1="111"
+         y1="113.33"
+         x2="111"
+         y2="203.33"
+         id="line16" />
+      <circle
+         class="st17"
+         cx="111"
+         cy="113.33"
+         r="1.88"
+         id="circle16" />
+      <polygon
+         class="st17"
+         points="111 206.86 108.97 201.89 111 203.07 113.03 201.89 111 206.86"
+         id="polygon16" />
+    </g>
+  </g>
+  <text
+     class="st16"
+     transform="translate(7.76 115.79)"
+     id="text17"><tspan
+       x="0"
+       y="0"
+       id="tspan17">x</tspan></text>
+  <text
+     class="st16"
+     transform="translate(108.7 218.67)"
+     id="text18"><tspan
+       x="0"
+       y="0"
+       id="tspan18">y</tspan></text>
+</svg>

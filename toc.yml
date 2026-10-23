@@ -10,5 +10,8 @@ project:
     - file: Content/Torsion/00_Main.md
       children:
         - file: Content/Torsion/01_Homework.md
+    - file: Content/Shear/00_Main.md
+      children:
+        - file: Content/Shear/01_Homework.md
     - file: Content/Templates.md
 
