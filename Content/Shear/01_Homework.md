@@ -312,7 +312,7 @@ Consider the closed thin-walled symmetric box girder cross-section $ABCDEO$ show
 
 ```{figure} ./Figures/hw_shear_8.svg
 :alt: Thin-walled symmetric box girder profile ABCDEO. The profile is subjected to a vertical shear load of 500 kN acting through its shear centre.
-:width: 50%
+:width: 70%
 :align: center
 ```
 
