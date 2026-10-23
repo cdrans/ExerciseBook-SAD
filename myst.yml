@@ -19,7 +19,7 @@ project:
   
 extends:
   - plugins.yml
-  - export.yml
+  # - export.yml
   - toc.yml
 
 site:
