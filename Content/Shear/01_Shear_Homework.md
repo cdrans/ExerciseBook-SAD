@@ -1,4 +1,4 @@
-# Homework
+# Transvers Shear Homework
 These are the recommended homework problems for the topic of **Transverse Shear**. 
 
 ```{warning} Remember
@@ -8,7 +8,7 @@ You are not limited to the use of a scientific calculator for homework problems.
 ```
 ## Shear Centres
 
-### Exercise 1 (17.1)
+### Exercise 1
 
 ````{exercise} 
 :label: hw_shear_1
@@ -44,7 +44,7 @@ ${I_{xx}} = \left( {\frac{{64}}{3} + \frac{4}{3}{{\sin }^2}\theta } \right)t{a^3
 ::::
 ````
 
-### Exercise 2 (17.3)
+### Exercise 2
 
 ````{exercise} 
 :label: hw_shear_2
@@ -80,7 +80,7 @@ ${I_{xx}} = 3\pi t{r^3}$
 ````
 
 
-### Exercise 3 (17.5)
+### Exercise 3
 
 ````{exercise} 
 :label: hw_shear_3
@@ -114,7 +114,7 @@ ${I_{xx}} = \frac{{{h^2}}}{{12}}\left( {{t_3}h + 3\left( {{t_1} + {t_2}} \right)
 ````
 
 
-### Exercise 4 (17.7)
+### Exercise 4
 
 ````{exercise} 
 :label: hw_shear_4
@@ -153,7 +153,7 @@ ${I_{xy}} =  - {a^3}t$
 ::::
 ````
 
-### Exercise 5 (17.11)
+### Exercise 5
 
 
 ````{exercise} 
@@ -193,7 +193,7 @@ You effictively already practice this when calculating shear centre locations an
 
 ## Shear Flow in Closed Sections
 
-### Exercise 6 (17.15)
+### Exercise 6
 
 
 ````{exercise} 
@@ -242,7 +242,7 @@ ${I_{xx}} = 0.62t{r^3}$
 ::::
 ````
 
-### Exercise 7 (17.17)
+### Exercise 7
 
 
 ````{exercise} 
@@ -302,7 +302,7 @@ The relevant section property needed to solve this problem is: ${I_{xx}} = \frac
 ::::
 ````
 
-### Exercise 8 (17.18)
+### Exercise 8
 
 
 ````{exercise} 

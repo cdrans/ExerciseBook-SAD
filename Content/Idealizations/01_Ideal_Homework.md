@@ -1,4 +1,4 @@
-# Homework
+# Combined Sections and Idealizations Homework
 These are the recommended homework problems for the topics of **Combined Open & Closed Sections** and **Structural Idealizations**. 
 
 ```{warning} Remember
@@ -12,7 +12,7 @@ You are not limited to the use of a scientific calculator for homework problems.
 
 Note, the next three problems all use the same wingbox profile, so you only need to calculate section properties for it once.
 
-### Exercise 1 (19.2)
+### Exercise 1
 ````{exercise} 
 :label: hw_combined_1
 
@@ -44,7 +44,7 @@ Relevant section properties: ${I_{xx}} = 1.578 \times {10^8}~m{m^4}$
 ::::
 ````
 
-### Exercise 2 (19.3)
+### Exercise 2
 ````{exercise} 
 :label: hw_combined_2
 
@@ -74,7 +74,7 @@ Relevant section properties: ${I_{xx}} = 1.578 \times {10^8}~m{m^4}$
 ::::
 ````
 
-### Exercise 3 (19.4)
+### Exercise 3
 ````{exercise} 
 :label: hw_combined_3
 
@@ -104,7 +104,7 @@ Relevant section properties: ${I_{xx}} = 1.578 \times {10^8}~m{m^4}$
 ::::
 ````
 
-### Exercise 4 (19.5)
+### Exercise 4
 ````{exercise} 
 :label: hw_combined_4
 
@@ -135,7 +135,7 @@ Relevant section properties: ${I_{xx}} = 8.8 \times {10^5}~m{m^4}$
 ````
 ## Structural Idealizations
 
-### Exercises 5 (20.2)
+### Exercises 5
 ````{exercise} 
 :label: hw_ideal_1
 Given below is an idealized wingbox consisting of eight booms connected by zero-thickness shear carrying webs. Booms 1, 4, 5, and 8 have an area of $200~mm^2$ while the reaming booms have an area of $250~mm^2$. Considering an internal vertical shear force of $1495~N$ due to lift acting through the shear centre of the section, calculate the shear flow distribution within the wingbox and the location of the shear centre.
