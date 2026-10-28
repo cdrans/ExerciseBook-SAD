@@ -7,8 +7,9 @@ You are not limited to the use of a scientific calculator for homework problems.
 
 ```
 
+## Closed Sections
 
-## Exercise 1
+### Exercise 1
 
 ````{exercise} 
 :label: hw_torsion_1
@@ -77,7 +78,7 @@ $\frac{{d\theta }}{{dz}}\left( z \right) =  - 8.044 \times {10^{ - 6}}\left[ {\f
 ::::
 ````
 
-## Exercise 2
+### Exercise 2
 
 ````{exercise} 
 :label: hw_torsion_2
@@ -135,7 +136,7 @@ $T \left( z \right) = 1450~Nm - wz$
 ::::
 ````
 
-## Exercise 3
+### Exercise 3
 
 
 ````{exercise} 
@@ -190,8 +191,9 @@ If the angle of twist is calculated by integration rather than estimation, then 
 :::
 ::::
 ````
+## Open Sections
 
-## Exercise 4
+### Exercise 4
 
 
 ````{exercise} 
@@ -237,7 +239,7 @@ At this thickness: $\tau_{max} = 102~MPa$ and $\frac{d\theta}{dz} = 0.998~\frac{
 ::::
 ````
 
-## Exercise 5
+### Exercise 5
 
 
 ````{exercise} 
@@ -273,7 +275,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 ::::
 ````
 
-## Exercise 6
+### Exercise 6
 
 
 ````{exercise} 
@@ -311,7 +313,7 @@ $T\left( z \right) = \left( 500~\frac{Nm}{m}\right) \left( L-z \right)$
 ::::
 ````
 
-## Exercise 7
+### Exercise 7
 
 
 ````{exercise} 

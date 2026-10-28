@@ -4,14 +4,17 @@ project:
   toc:
     - file: Content/00_cover.md                      # the landing page
     - file: Content/01_Preface.md
-    - file: Content/Bending/00_Main.md
+    - file: Content/Bending/00_Bend_Main.md
       children:
-        - file: Content/Bending/01_Homework.md
-    - file: Content/Torsion/00_Main.md
+        - file: Content/Bending/01_Bend_Homework.md
+    - file: Content/Torsion/00_Tor_Main.md
       children:
-        - file: Content/Torsion/01_Homework.md
-    - file: Content/Shear/00_Main.md
+        - file: Content/Torsion/01_Tor_Homework.md
+    - file: Content/Shear/00_Shear_Main.md
       children:
-        - file: Content/Shear/01_Homework.md
+        - file: Content/Shear/01_Shear_Homework.md
+    - file: Content/Idealizations/00_Ideal_Main.md
+      children:
+        - file: Content/Idealizations/01_Ideal_Homework.md
     - file: Content/Templates.md
 

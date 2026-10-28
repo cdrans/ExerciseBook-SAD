@@ -2,11 +2,10 @@
 <svg
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 300304 39644.793"
+   viewBox="0 0 548 199.11"
    version="1.1"
-   sodipodi:docname="P16-4.svg"
-   width="300304"
-   height="39644.793"
+   sodipodi:docname="hw_bending_2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,16 +18,16 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="300304"
-       height="39644.793"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.3941606"
+     inkscape:cx="274.11379"
+     inkscape:cy="99.563953"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
   <defs
      id="defs31">
     <style
@@ -395,7 +394,7 @@
        id="line31" />
     <path
        class="cls-14"
-       d="m 257.24,18.3 0.17,3.16 h -0.11 c 0,0 -3.06,-3.61 -3.06,-3.61 -1.19,-1.02 -2.39,-2.05 -3.58,-3.07 1.51,0.43 3.02,0.86 4.54,1.28 l 4.71,0.54 0.06,0.08 z"
+       d="M257.24,18.3l.17,3.16h-.11s-3.06-3.61-3.06-3.61c-1.19-1.02-2.39-2.05-3.58-3.07,1.51.43,3.02.86,4.54,1.28l4.71.54.06.08-2.73,1.62Z"
        id="path31" />
   </g>
   <g
@@ -403,32 +402,32 @@
     <line
        class="cls-5"
        x1="316.22"
-       y1="75.010002"
+       y1="75.01"
        x2="316.22"
        y2="113.89"
        id="line32" />
     <path
        class="cls-14"
-       d="m 316.22,112.54 2.7,-1.64 0.06,0.09 -1.75,4.41 c -0.34,1.54 -0.68,3.07 -1.01,4.61 -0.34,-1.54 -0.68,-3.07 -1.01,-4.61 l -1.75,-4.41 0.05,-0.09 2.72,1.64 z"
+       d="M316.22,112.54l2.7-1.64.06.09-1.75,4.41c-.34,1.54-.68,3.07-1.01,4.61-.34-1.54-.68-3.07-1.01-4.61l-1.75-4.41.05-.09,2.72,1.64Z"
        id="path32" />
   </g>
   <polygon
      class="cls-11"
-     points="300.78,4.19 357.28,34.8 357.28,59.63 336.89,50.58 336.72,90.67 300.78,73.2 "
+     points="300.78 4.19 357.28 34.8 357.28 59.63 336.89 50.58 336.72 90.67 300.78 73.2 300.78 4.19"
      id="polygon33" />
   <rect
      class="cls-2"
      x="459.22"
-     y="64.669998"
+     y="64.67"
      width="36"
      height="72"
      id="rect33" />
   <line
      class="cls-2"
-     x1="531.21997"
-     y1="64.669998"
+     x1="531.22"
+     y1="64.67"
      x2="495.22"
-     y2="64.669998"
+     y2="64.67"
      id="line33" />
   <line
      class="cls-2"
@@ -448,16 +447,15 @@
        id="line35" />
     <path
        class="cls-14"
-       d="m 477.22,156.21 2.7,-1.64 0.06,0.09 -1.75,4.41 c -0.34,1.54 -0.68,3.07 -1.01,4.61 -0.34,-1.54 -0.68,-3.07 -1.01,-4.61 l -1.75,-4.41 0.05,-0.09 2.72,1.64 z"
+       d="M477.22,156.21l2.7-1.64.06.09-1.75,4.41c-.34,1.54-.68,3.07-1.01,4.61-.34-1.54-.68-3.07-1.01-4.61l-1.75-4.41.05-.09,2.72,1.64Z"
        id="path35" />
   </g>
   <text
      class="cls-15"
-     id="text35"
-     x="474.22"
-     y="171.67"><tspan
-       x="474.22"
-       y="171.67"
+     transform="translate(474.22 171.67)"
+     id="text35"><tspan
+       x="0"
+       y="0"
        id="tspan35">y</tspan></text>
   <g
      id="g36">
@@ -470,137 +468,133 @@
        id="line36" />
     <path
        class="cls-14"
-       d="m 433.68,100.67 1.64,2.7 -0.09,0.06 -4.41,-1.75 c -1.54,-0.34 -3.07,-0.68 -4.61,-1.01 1.54,-0.34 3.07,-0.68 4.61,-1.01 l 4.41,-1.75 0.09,0.05 -1.64,2.72 z"
+       d="M433.68,100.67l1.64,2.7-.09.06-4.41-1.75c-1.54-.34-3.07-.68-4.61-1.01,1.54-.34,3.07-.68,4.61-1.01l4.41-1.75.09.05-1.64,2.72Z"
        id="path36" />
   </g>
   <text
      class="cls-17"
-     id="text36"
-     x="416.78"
-     y="102.78"><tspan
-       x="416.78"
-       y="102.78"
+     transform="translate(416.78 102.78)"
+     id="text36"><tspan
+       x="0"
+       y="0"
        id="tspan36">x</tspan></text>
   <g
      id="g37">
     <line
        class="cls-3"
        x1="465.88"
-       y1="84.440002"
-       x2="472.45001"
-       y2="84.440002"
+       y1="84.44"
+       x2="472.45"
+       y2="84.44"
        id="line37" />
     <polygon
        class="cls-23"
-       points="466.92,85.97 461.23,84.44 466.92,82.92 "
+       points="466.92 85.97 461.23 84.44 466.92 82.92 466.92 85.97"
        id="polygon37" />
   </g>
   <g
      id="g38">
     <line
        class="cls-3"
-       x1="453.35999"
-       y1="84.440002"
-       x2="446.89999"
-       y2="84.440002"
+       x1="453.36"
+       y1="84.44"
+       x2="446.9"
+       y2="84.44"
        id="line38" />
     <polygon
        class="cls-23"
-       points="452.32,82.92 458.01,84.44 452.32,85.97 "
+       points="452.32 82.92 458.01 84.44 452.32 85.97 452.32 82.92"
        id="polygon38" />
   </g>
   <text
      class="cls-20"
-     id="text38"
-     x="439.10999"
-     y="87.949997"><tspan
-       x="439.10999"
-       y="87.949997"
+     transform="translate(439.11 87.95)"
+     id="text38"><tspan
+       x="0"
+       y="0"
        id="tspan38">t</tspan></text>
   <g
      id="g43">
     <line
        class="cls-3"
        x1="459.66"
-       y1="56.779999"
+       y1="56.78"
        x2="459.66"
-       y2="38.779999"
+       y2="38.78"
        id="line39" />
     <line
        class="cls-3"
        x1="495.66"
-       y1="56.779999"
+       y1="56.78"
        x2="495.66"
-       y2="38.779999"
+       y2="38.78"
        id="line40" />
     <g
        id="g42">
       <line
          class="cls-3"
          x1="466.31"
-         y1="45.779999"
-         x2="489.01999"
-         y2="45.779999"
+         y1="45.78"
+         x2="489.02"
+         y2="45.78"
          id="line41" />
       <polygon
          class="cls-23"
-         points="467.79,47.96 459.66,45.78 467.79,43.6 "
+         points="467.79 47.96 459.66 45.78 467.79 43.6 467.79 47.96"
          id="polygon41" />
       <polygon
          class="cls-23"
-         points="487.53,47.96 495.66,45.78 487.53,43.6 "
+         points="487.53 47.96 495.66 45.78 487.53 43.6 487.53 47.96"
          id="polygon42" />
     </g>
   </g>
   <text
      class="cls-20"
-     id="text43"
-     x="468.22"
-     y="37.669998"><tspan
-       x="468.22"
-       y="37.669998"
+     transform="translate(468.22 37.67)"
+     id="text43"><tspan
+       x="0"
+       y="0"
        id="tspan43">a/2</tspan></text>
   <line
      class="cls-3"
-     x1="531.21997"
-     y1="56.779999"
-     x2="531.21997"
-     y2="38.779999"
+     x1="531.22"
+     y1="56.78"
+     x2="531.22"
+     y2="38.78"
      id="line43" />
   <g
      id="g45">
     <line
        class="cls-3"
        x1="501.87"
-       y1="45.779999"
-       x2="524.58002"
-       y2="45.779999"
+       y1="45.78"
+       x2="524.58"
+       y2="45.78"
        id="line44" />
     <polygon
        class="cls-23"
-       points="503.35,47.96 495.22,45.78 503.35,43.6 "
+       points="503.35 47.96 495.22 45.78 503.35 43.6 503.35 47.96"
        id="polygon44" />
     <polygon
        class="cls-23"
-       points="523.09,47.96 531.22,45.78 523.09,43.6 "
+       points="523.09 47.96 531.22 45.78 523.09 43.6 523.09 47.96"
        id="polygon45" />
   </g>
   <text
      class="cls-20"
-     id="text45"
-     x="503.78"
-     y="37.669998"><tspan
-       x="503.78"
-       y="37.669998"
+     transform="translate(503.78 37.67)"
+     id="text45"><tspan
+       x="0"
+       y="0"
        id="tspan45">a/2</tspan></text>
   <g
      id="g49">
     <line
        class="cls-3"
        x1="414.22"
-       y1="64.669998"
+       y1="64.67"
        x2="396.22"
-       y2="64.669998"
+       y2="64.67"
        id="line45" />
     <line
        class="cls-3"
@@ -614,27 +608,26 @@
       <line
          class="cls-3"
          x1="403.22"
-         y1="71.309998"
+         y1="71.31"
          x2="403.22"
          y2="130.02"
          id="line47" />
       <polygon
          class="cls-23"
-         points="401.04,72.8 403.22,64.67 405.4,72.8 "
+         points="401.04 72.8 403.22 64.67 405.4 72.8 401.04 72.8"
          id="polygon47" />
       <polygon
          class="cls-23"
-         points="401.04,128.54 403.22,136.67 405.4,128.54 "
+         points="401.04 128.54 403.22 136.67 405.4 128.54 401.04 128.54"
          id="polygon48" />
     </g>
   </g>
   <text
      class="cls-20"
-     id="text49"
-     x="387.22"
-     y="100.67"><tspan
-       x="387.22"
-       y="100.67"
+     transform="translate(387.22 100.67)"
+     id="text49"><tspan
+       x="0"
+       y="0"
        id="tspan49">a</tspan></text>
   <g
      id="g53">
@@ -656,126 +649,120 @@
        id="g52">
       <line
          class="cls-3"
-         x1="452.57999"
+         x1="452.58"
          y1="156.67"
          x2="429.87"
          y2="156.67"
          id="line51" />
       <polygon
          class="cls-23"
-         points="451.09,154.49 459.22,156.67 451.09,158.85 "
+         points="451.09 154.49 459.22 156.67 451.09 158.85 451.09 154.49"
          id="polygon51" />
       <polygon
          class="cls-23"
-         points="431.35,154.49 423.22,156.67 431.35,158.85 "
+         points="431.35 154.49 423.22 156.67 431.35 158.85 431.35 154.49"
          id="polygon52" />
     </g>
   </g>
   <text
      class="cls-20"
-     id="text53"
-     x="432.22"
-     y="172.67"><tspan
-       x="432.22"
-       y="172.67"
+     transform="translate(432.22 172.67)"
+     id="text53"><tspan
+       x="0"
+       y="0"
        id="tspan53">a/2</tspan></text>
   <text
      class="cls-17"
-     id="text54"
-     x="533.54999"
-     y="63.110001"><tspan
-       x="533.54999"
-       y="63.110001"
+     transform="translate(533.55 63.11)"
+     id="text54"><tspan
+       x="0"
+       y="0"
        id="tspan54">1</tspan></text>
   <text
      class="cls-17"
-     id="text55"
-     x="449.75"
-     y="63.110001"><tspan
-       x="449.75"
-       y="63.110001"
+     transform="translate(449.75 63.11)"
+     id="text55"><tspan
+       x="0"
+       y="0"
        id="tspan55">2</tspan></text>
   <text
      class="cls-17"
-     id="text56"
-     x="497"
-     y="149.03999"><tspan
-       x="497"
-       y="149.03999"
+     transform="translate(497 149.04)"
+     id="text56"><tspan
+       x="0"
+       y="0"
        id="tspan56">3</tspan></text>
   <text
      class="cls-17"
-     id="text57"
-     x="412.64001"
-     y="149.03999"><tspan
-       x="412.64001"
-       y="149.03999"
+     transform="translate(412.64 149.04)"
+     id="text57"><tspan
+       x="0"
+       y="0"
        id="tspan57">4</tspan></text>
   <text
      class="cls-16"
-     id="text67"
-     x="434.45001"
-     y="191.61"><tspan
-       x="434.45001"
-       y="191.61"
+     transform="translate(434.45 191.61)"
+     id="text67"><tspan
+       x="0"
+       y="0"
        id="tspan58">C</tspan><tspan
        class="cls-1"
-       x="442.26001"
-       y="191.61"
+       x="7.81"
+       y="0"
        id="tspan59">R</tspan><tspan
        class="cls-21"
-       x="449.69"
-       y="191.61"
+       x="15.24"
+       y="0"
        id="tspan60">OS</tspan><tspan
        class="cls-25"
-       x="465.64001"
-       y="191.61"
+       x="31.19"
+       y="0"
        id="tspan61">S</tspan><tspan
        class="cls-21"
-       x="473.13"
-       y="191.61"
+       x="38.68"
+       y="0"
        id="tspan62">-S</tspan><tspan
        class="cls-22"
-       x="484.73001"
-       y="191.61"
+       x="50.28"
+       y="0"
        id="tspan63">E</tspan><tspan
        class="cls-24"
-       x="491.44"
-       y="191.61"
+       x="56.99"
+       y="0"
        id="tspan64">C</tspan><tspan
        class="cls-10"
-       x="499.42999"
-       y="191.61"
+       x="64.98"
+       y="0"
        id="tspan65">T</tspan><tspan
        class="cls-26"
-       x="506.39999"
-       y="191.61"
+       x="71.95"
+       y="0"
        id="tspan66">I</tspan><tspan
        class="cls-21"
-       x="510.98999"
-       y="191.61"
+       x="76.54"
+       y="0"
        id="tspan67">ON</tspan></text>
   <polygon
      class="cls-9"
-     points="65.22,153.67 326.22,73.36 290.22,55.36 29.22,135.67 "
+     points="290.22 55.36 29.22 135.67 65.22 153.67 326.22 73.36 290.22 55.36"
      id="polygon67" />
   <polygon
      class="cls-9"
-     points="308.22,64.36 308.22,18.67 47.22,99.67 47.22,144.67 "
+     points="47.22 99.67 47.22 144.67 308.22 64.36 308.22 18.67 47.22 99.67"
      id="polygon68" />
   <polygon
      class="cls-9"
-     points="326.22,73.36 326.22,27.67 65.22,108.67 65.22,153.67 "
+     points="65.22 108.67 65.22 153.67 326.22 73.36 326.22 27.67 65.22 108.67"
      id="polygon69" />
   <polygon
      class="cls-9"
-     points="83.22,117.67 344.22,35.83 308.22,18.67 47.22,99.67 "
+     points="308.22 18.67 47.22 99.67 83.22 117.67 344.22 35.83 308.22 18.67"
      id="polygon70" />
   <line
      class="cls-7"
-     x1="65.220001"
+     x1="65.22"
      y1="160.55"
-     x2="65.220001"
+     x2="65.22"
      y2="184.78"
      id="line70" />
   <g
@@ -785,62 +772,60 @@
        x1="71.57"
        y1="175.33"
        x2="205.87"
-       y2="134.00999"
+       y2="134.01"
        id="line71" />
     <polygon
        class="cls-23"
-       points="73.63,176.97 65.22,177.28 72.35,172.81 "
+       points="73.63 176.97 65.22 177.28 72.35 172.81 73.63 176.97"
        id="polygon71" />
     <polygon
        class="cls-23"
-       points="205.09,136.53 212.22,132.05 203.81,132.36 "
+       points="205.09 136.53 212.22 132.05 203.81 132.36 205.09 136.53"
        id="polygon72" />
   </g>
   <text
      class="cls-20"
-     id="text72"
-     x="142.17999"
-     y="168"><tspan
-       x="142.17999"
-       y="168"
+     transform="translate(142.18 168)"
+     id="text72"><tspan
+       x="0"
+       y="0"
        id="tspan72">L/2</tspan></text>
   <g
      id="g74">
     <line
        class="cls-7"
        x1="218.55"
-       y1="130.03999"
-       x2="320.45999"
-       y2="97.690002"
+       y1="130.04"
+       x2="320.46"
+       y2="97.69"
        id="line72" />
     <polygon
        class="cls-23"
-       points="220.63,131.67 212.22,132.05 219.31,127.51 "
+       points="220.63 131.67 212.22 132.05 219.31 127.51 220.63 131.67"
        id="polygon73" />
     <polygon
        class="cls-23"
-       points="319.7,100.22 326.79,95.68 318.38,96.07 "
+       points="319.7 100.22 326.79 95.68 318.38 96.07 319.7 100.22"
        id="polygon74" />
   </g>
   <text
      class="cls-20"
-     id="text74"
-     x="271.25"
-     y="126.29"><tspan
-       x="271.25"
-       y="126.29"
+     transform="translate(271.25 126.29)"
+     id="text74"><tspan
+       x="0"
+       y="0"
        id="tspan74">L/2</tspan></text>
   <line
      class="cls-7"
      x1="212.22"
-     y1="92.169998"
+     y1="92.17"
      x2="212.22"
      y2="136.34"
      id="line74" />
   <line
      class="cls-7"
      x1="326.22"
-     y1="78.550003"
+     y1="78.55"
      x2="326.22"
      y2="102.78"
      id="line75" />
@@ -848,86 +833,81 @@
      id="g76">
     <line
        class="cls-6"
-       x1="244.17999"
+       x1="244.18"
        y1="107.92"
        x2="212.22"
-       y2="91.949997"
+       y2="91.95"
        id="line76" />
     <polygon
        class="cls-18"
-       points="243.47,102.7 256.06,113.87 239.57,110.49 "
+       points="243.47 102.7 256.06 113.87 239.57 110.49 243.47 102.7"
        id="polygon76" />
   </g>
   <text
      class="cls-19"
-     id="text77"
-     x="256.06"
-     y="108.28"><tspan
-       x="256.06"
-       y="108.28"
+     transform="translate(256.06 108.28)"
+     id="text77"><tspan
+       x="0"
+       y="0"
        id="tspan76">2</tspan><tspan
        class="cls-12"
-       x="262.79999"
-       y="108.28"
+       x="6.74"
+       y="0"
        id="tspan77">P</tspan></text>
   <text
      class="cls-13"
-     id="text78"
-     x="51.790001"
-     y="59"><tspan
-       x="51.790001"
-       y="59"
+     transform="translate(51.79 59)"
+     id="text78"><tspan
+       x="0"
+       y="0"
        id="tspan78">P</tspan></text>
   <text
      class="cls-17"
-     id="text79"
-     x="236.08"
-     y="14.78"><tspan
-       x="236.08"
-       y="14.78"
+     transform="translate(236.08 14.78)"
+     id="text79"><tspan
+       x="0"
+       y="0"
        id="tspan79">x</tspan></text>
   <text
      class="cls-15"
-     id="text80"
-     x="313.51001"
-     y="129.8"><tspan
-       x="313.51001"
-       y="129.8"
+     transform="translate(313.51 129.8)"
+     id="text80"><tspan
+       x="0"
+       y="0"
        id="tspan80">y</tspan></text>
   <g
      id="g80">
     <line
        class="cls-5"
-       x1="54.459999"
+       x1="54.46"
        y1="124.84"
        x2="20.75"
        y2="133.27"
        id="line80" />
     <path
        class="cls-14"
-       d="m 22.05,132.94 2.25,2.22 -0.07,0.08 -4.7,-0.63 c -1.57,0.04 -3.14,0.09 -4.71,0.13 1.41,-0.7 2.81,-1.4 4.22,-2.1 l 3.85,-2.77 0.1,0.02 -0.94,3.03 z"
+       d="M22.05,132.94l2.25,2.22-.07.08-4.7-.63c-1.57.04-3.14.09-4.71.13,1.41-.7,2.81-1.4,4.22-2.1l3.85-2.77.1.02-.94,3.03Z"
        id="path80" />
   </g>
   <text
      class="cls-17"
-     id="text81"
-     x="5.3499999"
-     y="139.64999"><tspan
-       x="5.3499999"
-       y="139.64999"
+     transform="translate(5.35 139.65)"
+     id="text81"><tspan
+       x="0"
+       y="0"
        id="tspan81">z</tspan></text>
   <g
      id="g81">
     <line
        class="cls-6"
-       x1="55.759998"
-       y1="133.99001"
-       x2="55.759998"
-       y2="74.730003"
+       x1="55.76"
+       y1="133.99"
+       x2="55.76"
+       y2="74.73"
        id="line81" />
     <polygon
        class="cls-18"
-       points="60.11,77.7 55.76,61.44 51.4,77.7 "
+       points="60.11 77.7 55.76 61.44 51.4 77.7 60.11 77.7"
        id="polygon81" />
   </g>
 </svg>
