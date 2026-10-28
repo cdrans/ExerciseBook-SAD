@@ -16,5 +16,5 @@ project:
     - file: Content/Idealizations/00_Ideal_Main.md
       children:
         - file: Content/Idealizations/01_Ideal_Homework.md
-    - file: Content/Templates.md
+  
 
