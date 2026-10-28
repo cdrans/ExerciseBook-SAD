@@ -177,23 +177,45 @@ Relevant section properties: ${I_{xx}} = 8.04 \times {10^6}~m{m^4}$
 ::::
 ````
 
-### Exercises
+### Exercise 6
 ````{exercise} 
-:label: hw_ideal_99
-text
+:label: hw_ideal_6
+Consider the polygonal wingbox section shown below left subjected to an internal Torque $T = 9~kNm$, an internal vertical shear force $V = 100~kN$ aligned with the $y$-axis, and an internal bending moment $M = 20~kNm$ aligned with the $x$-axis. You are tasked with analyzing this section by doing the following:
+- Idealize the section as illustrated below right by calculating the appropriate boom areas for each of the 6 booms;
+- Calculate the maximum internal normal stress in the cross-section using your idealization
+- Calculate the magnitude of the maximum internal shear stress in the cross-section using your idealization
+
+```{figure} ./Figures/hw_ideal_2.svg
+:alt: Hexaganol wingbox profile with a suggested 6 boom idealization. 
+:width: 100%
+:align: center
+```
+
 ````
 
-````{solution} hw_ideal_99
+````{solution} hw_ideal_6
 :class: dropdown
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-text
+**Boom Areas**
+
+$B_1 = B_3 = B_4 = B_6 = 244~mm^2$
+
+$B_2 = B_5 = 264~mm^2$
+
+**Maximum Shear Stress**
+
+$\tau_{max} = 214.5~MPa$ and occurs in wall $34$
+
+**Maximum Normal Stress**
+
+$|\sigma_{max}| = 259~MPa$ and occurs at booms $2$ and $5$
 
 :::
 :::{tab-item} Intermediate Answers
 
-text
+Relevant section properties: ${I_{xx}} = 7.72 \times {10^6}~m{m^4}$
 
 :::
 ::::
@@ -201,3 +223,100 @@ text
 
 
 
+### Exercise 7
+````{exercise} 
+:label: hw_ideal_7
+
+You are tasked with analyzing a section of the rear fuselage structure for a horizontal gust load acting on the vertical stabilizer. Your fellow engineer has already idealized the fuselage section and determined the internal loading at this location, providing you with the information below. Given this idealization:
+- Calculate the shear flows acting in the idealized fuselage section
+- Calculate the location of the neutral axis and the **maximum compressive normal stress** acting in the idealized section
+
+```{figure} ./Figures/hw_ideal_3.svg
+:alt: Idealize circular fuselage section consisting of 4 booms and subjected to an internal bending moment and offset horizontal gust load. 
+:width: 80%
+:align: center
+```
+
+````
+
+````{solution} hw_ideal_7
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+**Shear Flow Distribution**
+
+```{figure} ./Figures/hw_ideal_3_sf.svg
+:alt: Idealize circular fuselage section consisting of 4 booms and subjected to an internal bending moment and offset horizontal gust load with final shear flow distribution overlaid on section. 
+:width: 70%
+:align: center
+```
+
+**N.A. location and Maximum Compressive Normal Stress**
+
+```{figure} ./Figures/hw_ideal_3_na.svg
+:alt: Idealize circular fuselage section consisting of 4 booms and subjected to an internal bending moment and offset horizontal gust load with neutral axis location and maximum compressive bending stress overlaid.
+:width: 70%
+:align: center
+```
+
+:::
+:::{tab-item} Intermediate Answers
+
+Relevant section properties: 
+
+${I_{xx}} = 1.89 \times {10^8}~m{m^4}$
+
+${I_{yy}} = 1.17 \times {10^8}~m{m^4}$
+
+:::
+::::
+````
+
+
+
+### Exercise 8
+````{exercise} 
+:label: hw_ideal_8
+
+You are tasked with analyzing the transverse shear loading of a cubesat main body. A schematic of the real section of the satellite is shown below left. It contains a stiffening element of area $A = 20~mm^2$ at each of the corners of the section, and thin-walled panels with thicknesses of either $0.6~mm$ or $1.4~mm$ according to the diagram below. The cross-section is symmetric about the x-axis, but not about the y-axis.The load case to be analyzed is an internal shear force $V = 2.0~kN$ acting through the midpoint of sidewall 12.
+
+```{figure} ./Figures/hw_ideal_4.svg
+:alt: Rectangular satellite bus cross-section with corner stiffeners and suggested idealization. 
+:width: 90%
+:align: center
+```
+Using the suggested idealization shown above right, complete the following:
+- Calculate the areas of the four booms for the internal load case provided
+- Calculate the magnitude and location of the maximum shear stress in the cross-section.
+
+
+````
+
+````{solution} hw_ideal_8
+:class: dropdown
+::::{tab-set}
+:::{tab-item} Final Answer
+
+**Boom Areas**
+
+$B_1 = B_4 = 60.0~mm^2$
+
+$B_2 = B_3 = 73.3~mm^2$
+
+**Maximum Shear Stress**
+
+**NOTE:** the maximum shear stress **is not** located where the maximum shear flow is!
+
+$\tau_{max} = 15.8~MPa$ and occurs in wall $14$. 
+
+:::
+:::{tab-item} Intermediate Answers
+
+Relevant section properties: 
+
+${I_{xx}} = 6.67 \times {10^5}~m{m^4}$
+
+:::
+::::
+````
