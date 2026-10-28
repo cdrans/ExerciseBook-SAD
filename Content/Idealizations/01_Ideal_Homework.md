@@ -1,4 +1,4 @@
-# Combined Sections and Idealizations Homework
+# Homework
 These are the recommended homework problems for the topics of **Combined Open & Closed Sections** and **Structural Idealizations**. 
 
 ```{warning} Remember

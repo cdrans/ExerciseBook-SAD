@@ -1,4 +1,4 @@
-# Transvers Shear Homework
+# Homework
 These are the recommended homework problems for the topic of **Transverse Shear**. 
 
 ```{warning} Remember
