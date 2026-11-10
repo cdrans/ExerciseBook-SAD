@@ -102,7 +102,7 @@ Think about designing a structural beam that needs to resist a specific bending 
 
 ```{warning} In Development
 
-This exercise type is currently in development and not present in this version of the exercise book
+This exercise type is currently in development and not present for all of the topics in this version of the exercise book
 
 ```
 

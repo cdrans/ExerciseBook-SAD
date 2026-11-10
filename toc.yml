@@ -7,6 +7,7 @@ project:
     - file: Content/Bending/00_Bend_Main.md
       children:
         - file: Content/Bending/01_Bend_Homework.md
+        - file: Content/Bending/03_Bend_Exam.md
     - file: Content/Torsion/00_Tor_Main.md
       children:
         - file: Content/Torsion/01_Tor_Homework.md
