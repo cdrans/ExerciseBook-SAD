@@ -84,7 +84,7 @@ Only final answers are provided to Homework Exercises. Developing the full solut
 
 ```{warning} In Development
 
-This exercise type is currently in development and not present in this verision of the exercise book
+This exercise type is currently in development and not present in this version of the exercise book
 
 ```
 
@@ -102,7 +102,7 @@ Think about designing a structural beam that needs to resist a specific bending 
 
 ```{warning} In Development
 
-This exercise type is currently in development and not present in this verision of the exercise book
+This exercise type is currently in development and not present in this version of the exercise book
 
 ```
 
