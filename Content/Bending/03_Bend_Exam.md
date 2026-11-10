@@ -81,10 +81,6 @@ $I_{xx} = \left( 9.58 \times 10^6 mm^3 \right)t$, $I_{yy} = \left( 1.03 \times 1
 3. $t_{min} = 3.6~mm$ 
 
 :::
-:::{tab-item} Intermediate Answers
-text
-
-:::
 
 ::::
 ````
