@@ -1,4 +1,4 @@
-# Homework 
+# Sample Exam Questions
 
 These are sample exam-level problems for the topic of Bending. We highly recommentd you follow the IDEA framework (see {numref}`fig_IDEA`) for approaching the solution of each problem. Write out your steps in this approach such that you can easily show a colleague and they could check your work. Effective communication of your solution is arguabbly more valaubale then getting the correct answer!
 
@@ -17,7 +17,7 @@ Consider the variable thickness stringer profile shown below subjected to a bend
 
 ```{figure} ./Figures/exam_bending_1.svg
 :alt: Unsymmetric J-stiffener profile with internal moment M acting on it.
-:width: 60%
+:width: 40%
 :align: center
 ```
 ````
@@ -52,7 +52,7 @@ Consider the variable thickness stringer profile shown below subjected to a bend
 
 Consider the cantilever beam $ABCD$ illustrated below left with a fixed support at $A$, a uniform distributed load of $w = 5~kN/m$ acting from $B$ to $C$, and a moment couple $M_D = 12~kNm$ acting at $D$. The thin-walled constant-thickness cross-section of the beam is illustrated below right. Answer the following questions in relation to this beam, loading, and beam cross-section.
 
-```{figure} ./Figures/hw_bending_2.svg
+```{figure} ./Figures/exam_bending_2.svg
 :alt: Unsymmetric cantilever beam ABCD with complex loading and thin-walled cross-section illustrated. 
 :width: 90%
 :align: center
