@@ -71,7 +71,7 @@ Following this approach aligns with the goals of this course to not not merely t
 ## Exercise types explained
 This book contains more exercises then you are expected to complete over the duration of the course, and contains different exercise types that serve different learning purposes. The various types of exercises are briefly described below to help you decide how best to use this book.
 
-### Homework Exercises
+### Homework Exercises (Complteted until Week 4)
 These are the core exercises intended for all students taking the course. They are designed to challenge your understanding of the material through realistic and moderately complex problems.
 
 The questions are intentionally not simplified to minimize arithmetic or algebraic effort. As a result, they require careful and rigorous solution procedures, including the ability to trace and identify errors within your own analysis. For these exercises, the use of programmable calculators or computers is encouraged to assist with repetitive or complex calculations.
@@ -80,7 +80,7 @@ The questions are intentionally not simplified to minimize arithmetic or algebra
 Only final answers are provided to Homework Exercises. Developing the full solution process independently is considered an essential part of the learning experience. 
 ```
 
-### Design Challenges
+### Design Challenges (Not Yet Completed - see sample exams on Brightspace)
 Design challenges are open-ended problems intended to resemble real engineering decision-making more closely.
 
 These exercises typically do not have a single correct answer. Instead, they require you to apply course concepts to justify assumptions, compare alternatives, and support design decisions. The goal is to encourage discussion, critical thinking, and engineering judgement rather than arriving at one “correct” numerical result.
@@ -91,7 +91,7 @@ A key aspect of design is making decisions and convincing others (and yourself) 
 Think about designing a structural beam that needs to resist a specific bending load without failing. You can change the geometry of the cross-section, you can change the material of the beam. These variables give you an infinite number of possible solutions that could fulfill the design requirements!
 ```
 
-### Sample Exam Questions
+### Sample Exam Questions (Not Yet Completed)
 These questions are designed to reflect the style and constraints of examination problems.
 
 Compared to the homework exercises, they are generally more structured and simplified. Intermediate steps, partial solutions, or reduced algebraic complexity may be provided to limit the effect of carry-through errors during assessment.
