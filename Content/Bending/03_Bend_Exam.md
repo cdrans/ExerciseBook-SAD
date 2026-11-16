@@ -1,10 +1,9 @@
 # Sample Exam Questions
-
-These are sample exam-level problems for the topic of Bending. We highly recommentd you follow the IDEA framework (see {numref}`fig_IDEA`) for approaching the solution of each problem. Write out your steps in this approach such that you can easily show a colleague and they could check your work. Effective communication of your solution is arguabbly more valaubale then getting the correct answer!
+These are sample exam-level problems for the topic of Bending. We highly recommend you follow the IDEA framework (see {numref}`fig_IDEA`) for approaching the solution of each problem. Write out your steps in this approach such that you can easily show a colleague and they could check your work. Effective communication of your solution is arguably more valuable then getting the correct answer!
 
 ```{important} Designed for scientific calculators!
 
-These exam problems are designed to be solved with only a basic scientific calculator. It is reccomended that you limit yourself to the bachelor TI-30xb calculator to match the calculator restrictions of the exam when solving these questions.
+These exam problems are designed to be solved with only a basic scientific calculator. It is recommended that you limit yourself to the bachelor TI-30xb calculator to match the calculator restrictions of the exam when solving these questions.
 
 ```
 
