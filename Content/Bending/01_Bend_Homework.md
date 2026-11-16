@@ -72,11 +72,11 @@ Consider the thin-walled cantilever beam of constant thickness t with the cross-
 
 For $\left( 0 < z < \frac{L}{2} \right)$:
 
-$\sigma_1 \left(z\right) = -\frac{0.1P}{ta^2}\left(L-z\right)$ and $\sigma_2 \left(z\right) = -\frac{1.26P}{ta^2}\left(L-z\right)$
+$\sigma_1 \left(z\right) = \frac{P}{ta^2}\left(3.6z-1.85L\right)$ and $\sigma_2 \left(z\right) = \frac{P}{ta^2}\left(-1.46z + 0.1L\right)$
 
 For $\left( \frac{L}{2} < z < L \right)$:
 
-$\sigma_1 \left(z\right) = \frac{P}{ta^2}\left(3.6z-1.85L\right)$ and $\sigma_2 \left(z\right) = \frac{P}{ta^2}\left(-1.46z + 0.1L\right)$
+$\sigma_1 \left(z\right) = -\frac{0.1P}{ta^2}\left(L-z\right)$ and $\sigma_2 \left(z\right) = -\frac{1.26P}{ta^2}\left(L-z\right)$
 
 :::
 :::{tab-item} Intermediate Answers
