@@ -11,6 +11,7 @@ project:
     - file: Content/Torsion/00_Tor_Main.md
       children:
         - file: Content/Torsion/01_Tor_Homework.md
+        - file: Content/Torsion/03_Tor_Exam.md
     - file: Content/Shear/00_Shear_Main.md
       children:
         - file: Content/Shear/01_Shear_Homework.md

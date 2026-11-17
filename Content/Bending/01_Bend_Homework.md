@@ -72,11 +72,11 @@ Consider the thin-walled cantilever beam of constant thickness t with the cross-
 
 For $\left( 0 < z < \frac{L}{2} \right)$:
 
-$\sigma_1 \left(z\right) = -\frac{0.1P}{ta^2}\left(L-z\right)$ and $\sigma_2 \left(z\right) = -\frac{1.26P}{ta^2}\left(L-z\right)$
+$\sigma_1 \left(z\right) = \frac{P}{ta^2}\left(3.6z-1.85L\right)$ and $\sigma_2 \left(z\right) = \frac{P}{ta^2}\left(-1.46z + 0.1L\right)$
 
 For $\left( \frac{L}{2} < z < L \right)$:
 
-$\sigma_1 \left(z\right) = \frac{P}{ta^2}\left(3.6z-1.85L\right)$ and $\sigma_2 \left(z\right) = \frac{P}{ta^2}\left(-1.46z + 0.1L\right)$
+$\sigma_1 \left(z\right) = -\frac{0.1P}{ta^2}\left(L-z\right)$ and $\sigma_2 \left(z\right) = -\frac{1.26P}{ta^2}\left(L-z\right)$
 
 :::
 :::{tab-item} Intermediate Answers
@@ -150,7 +150,7 @@ Consider the thin-walled z-stiffener cross-section shown below where the angle o
 ::::{tab-set}
 :::{tab-item} Final Answer
 
-$\beta \left( \theta  \right) = {\tan ^{ - 1}}\left[ {\frac{{\frac{2}{3}\sin \theta \cos \theta }}{{\left( {\frac{1}{6} + 2{{\left( {\cos \theta  - \frac{1}{2}} \right)}^2} + \frac{2}{3}{{\cos }^2}\theta } \right)}}} \right]$
+$\beta \left( \theta  \right) = {\tan ^{ - 1}}\left[ {\frac{{\frac{8}{3}\sin \theta \cos \theta - sin \theta}}{{\left( {\frac{1}{6} + 2{{\left( {\cos \theta  - \frac{1}{2}} \right)}^2} + \frac{2}{3}{{\cos }^2}\theta } \right)}}} \right]$
 
 Click run to plot the location of the N.A. as a function of $\theta$
 ```{pyodide}
@@ -162,7 +162,7 @@ x_deg = np.linspace(0, 180, 500)
 x_rad = np.radians(x_deg)
 
 y = np.arctan(
-    ((2/3) * np.sin(x_rad) * np.cos(x_rad)) /
+    ((8/3) * np.sin(x_rad) * np.cos(x_rad) - np.sin(x_rad)) /
     ((1/6) + 2*(np.cos(x_rad)-(1/2))**2 + (2/3) * np.cos(x_rad)**2)
 )
 
@@ -179,10 +179,10 @@ plt.show()
 
 | $\theta$ [deg]    | $\sigma_1$ [MPa] |$\sigma_2$ [MPa] |$\sigma_3$ [MPa] |$\sigma_4$ [MPa] |
 | -------- | ------- |------- |------- |------- |
-| 30       | -174    | -74.6    | 74.6    | 173.6    |
+| 30       | -529    | 94.9    | -94.9    | 529    |
 | 60       | -137     | -45.8     | 45.8     | 137     |
-| 90       | -69.4    | -69.4    | 69.4    | 69.4    |
-| 120      | -64.2    | -75.8    | 75.8    | 64.2    |
+| 90       | 79.4    | -159    | 159    | -79.4    |
+| 120      | 320    | -320    | 320    | -320    |
 
 :::
 :::{tab-item} Intermediate Answers
@@ -195,7 +195,7 @@ $I_{xx}\left(\theta\right) = \frac{8t{a^3}}{3}{\sin ^2}\theta $,
 
 $I_{yy}\left(\theta\right) = t{a^3}\left[ {\frac{1}{6} + 2{{\left( {\cos \theta  - \frac{1}{2}} \right)}^2} + \frac{2}{3}{{\cos }^2}\theta } \right]$, 
 
-$I_{xy}\left(\theta\right) = \frac{2}{3}t{a^3}\sin \theta \cos \theta $
+${I_{xy}}\left( \theta  \right) = t{a^3}\left[ {\frac{8}{3}\sin \theta \cos \theta  - \sin \theta } \right]$
 
 **Internal Moments**: Due to direction of the internal moment, $M_x = -1~kNm$ and $M_y = 0$
 
