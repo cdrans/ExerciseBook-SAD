@@ -64,7 +64,7 @@ Consider the cantilever beam $ABCD$ illustrated below left with a fixed support 
 
 3. A colleague of yours has completed the primary sizing of the beam cross-section ($a = 20~mm$) and updated the moments of inertia for you as functions of thickness $t$ below. Using these updated properties and your results from part 2), calculate the minimum thickness $t$ required to prevent yielding of the beam cross-section if the material has a yield stress $\sigma_y = 150~MPa$.
 
-$I_{xx} = \left( 9.58 \times 10^6 mm^3 \right)t$, $I_{yy} = \left( 1.03 \times 10^6 mm^3 \right)t$, $I_{xy} = \left( -8.91 \times 10^5 mm^3 \right)t$
+$I_{xx} = \left( 2.68 \times 10^6 mm^3 \right)t$, $I_{yy} = \left( 2.88 \times 10^5 mm^3 \right)t$, $I_{xy} = \left( -2.50 \times 10^5 mm^3 \right)t$
 
 
 ````{solution} exam_bending_2
