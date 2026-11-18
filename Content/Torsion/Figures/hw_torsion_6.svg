@@ -31,7 +31,7 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="g55" />
   <defs
      id="defs32">
     <style
@@ -570,24 +570,13 @@
          id="tspan36">x</tspan></text>
     <text
        class="cls-35"
-       transform="translate(69.77 81.02)"
-       id="text40"><tspan
+       id="text40"
+       x="62.961506"
+       y="82.2304"><tspan
          class="cls-51"
-         x="0"
-         y="0"
-         id="tspan37">T</tspan><tspan
-         x="4.84"
-         y="0"
-         xml:space="preserve"
-         id="tspan38"> = 5 kNm</tspan><tspan
-         class="cls-46"
-         x="41.62"
-         y="0"
-         id="tspan39">/</tspan><tspan
-         class="cls-31"
-         x="44.83"
-         y="0"
-         id="tspan40">m</tspan></text>
+         x="62.961506"
+         y="82.2304"
+         id="tspan37">T = 0.5 kNm/m</tspan></text>
     <text
        class="cls-30"
        transform="translate(145.28 25.18) rotate(20)"

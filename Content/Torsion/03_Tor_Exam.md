@@ -13,7 +13,7 @@ These exam problems are designed to be solved with only a basic scientific calcu
 ````{exercise} 
 :label: exam_torsion_1a
 
-Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500~Nm/m$. Answer the following questions related to this structure.
+Consider a thin-walled wing box structure of length $L = 4~m$ comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500~Nm/m$. Answer the following questions related to this structure.
 
 ```{figure} ./Figures/exam_torsion_1a.svg
 :alt: Closed wingbox profile with a uniform distributed torque

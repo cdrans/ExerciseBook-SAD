@@ -14,7 +14,7 @@ You are not limited to the use of a scientific calculator for homework problems.
 ````{exercise} 
 :label: hw_torsion_1
 
-Consider the $3000~mm$ long uniform, multi-material, thin-walled, cantilever beam with a closed rectangular cross-section shown below. The upper and lower flanges are made out of $1.2~mm$ thick aluminum alloy with a shear modulus of $G_1 = 25~GPa$ while the two vertical webs are made of a titanium alloy with a thickness of $1.8~mm$ and shear modulus $G_2 = 45~GPa$. The beam is subjected to a uniform distributed torque of $30~Nm/mm$ along its length as well as a point torque of $20~kNm$ applied at the free end of the beam in the opposite direction of the distributed torque. 
+Consider the $3000~mm$ long uniform, multi-material, thin-walled, cantilever beam with a closed rectangular cross-section shown below. The upper and lower flanges are made out of $1.1~mm$ thick aluminum alloy with a shear modulus of $G_1 = 25~GPa$ while the two vertical webs are made of a titanium alloy with a thickness of $1.8~mm$ and shear modulus $G_2 = 45~GPa$. The beam is subjected to a uniform distributed torque of $30~Nm/mm$ along its length as well as a point torque of $20~kNm$ applied at the free end of the beam in the opposite direction of the distributed torque. 
 
 Calculate the following:
 - magnitude and location of the maximum shear stress in the beam
@@ -166,12 +166,12 @@ Consider the tapered thin-walled cantilever beam with a closed rectangular cross
 
 |  distance from fixed end [mm]    | $d \theta$ [deg/m] |
 | -------- | ------- |
-| 0       | 1.343   | 
-| 1000       | 1.480    | 
-| 2000     | 1.647    | 
-| 3000     | 1.857   | 
+| 0       | 1.790   | 
+| 1000       | 1.989    | 
+| 2000     | 2.235    | 
+| 3000     | 2.546   | 
 
-**Estimated Angle of Twist**: $\theta \approx 4.74^\circ$ 
+**Estimated Angle of Twist**: $\theta \approx 6.38^\circ$ 
 
 :::
 :::{tab-item} Intermediate Answers
@@ -262,7 +262,7 @@ Consider a thin-walled beam with the parametric cross-section shown below. Calcu
 
 $\tau_{max} = \frac{0.284T}{rt^2}$ (occurs in thicker portions of the beam)
 
-$\frac{d\theta}{dz} = \frac{0.142T}{rt^3}$
+$\frac{d\theta}{dz} = \frac{0.142T}{Grt^3}$
 
 :::
 :::{tab-item} Intermediate Answers
@@ -281,7 +281,7 @@ From superposition: $T = 2T_{12} + T_{26}$
 ````{exercise} 
 :label: hw_torsion_6
 
-Consider a thin-walled wing box structure comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
+Consider a thin-walled long wing box structure of length $L = 4~m$ comprised of a semi-circular leading edge of radius $r = 50~mm$ joined to square of width $100~mm$ as illustrated below. The wing box is made of aluminum ($G = 25~GPa$) with a constant thickness, $t = 2~mm$, and is subjected to a uniform distributed torque of $500 Nm/m$.
 
 ```{figure} ./Figures/hw_torsion_6.svg
 :alt: Thin-walled closed beam section with uniform distributed torsion applied along its length.
