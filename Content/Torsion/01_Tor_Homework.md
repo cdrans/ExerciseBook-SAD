@@ -171,7 +171,7 @@ Consider the tapered thin-walled cantilever beam with a closed rectangular cross
 | 2000     | 2.235    | 
 | 3000     | 2.546   | 
 
-**Estimated Angle of Twist**: $\theta \approx 6.38^\circ$ 
+**Estimated Angle of Twist**: $\theta \approx 6.39^\circ$ 
 
 :::
 :::{tab-item} Intermediate Answers
@@ -186,7 +186,7 @@ $ A_m \left( z \right) = 4 \times {10^4}\left[ {m{m^2}} \right] - 3.33\left[ {mm
 
 We can estimate the angle of twist using the intervals of rate of twist by applying the trapazoidal rule, since the angle of twist would be the integral of rate of twist along the length of the beam, and thus the area under the rate of twist vs position along beam graph.
 
-If the angle of twist is calculated by integration rather than estimation, then you get $\theta = 4.718^\circ$
+If the angle of twist is calculated by integration rather than estimation, then you get $\theta = 6.377^\circ$
 
 :::
 ::::
